@@ -1,0 +1,12 @@
+
+
+# install semua module
+npm install
+# atau
+yarn install
+
+# bila libray @adiwajshing/baileys error, jalan kan kode yg ada dibawah ini
+
+cd ./node_modules/@adiwajshing/baileys
+npm install -g typescript
+npm run build:tsc
