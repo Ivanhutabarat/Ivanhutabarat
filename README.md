@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ipan Hutabarat!  
+# 👋 Hi, I'm Ivan Hutabarat!  
 
 🎓 **Geophysics Student** | 💻 **WhatsApp Bot Developer** | 🚀 **Tech Enthusiast**  
 
