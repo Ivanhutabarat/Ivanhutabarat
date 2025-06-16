@@ -32,7 +32,21 @@
 - 📊 **Geophysics Data Analysis** – Exploring computational techniques with Python & MATLAB.  
 
 ## 💻 Tech Stack  
-**Languages:** Python | MATLAB | JavaScript  
-**Tools:** Jupyter Notebook | VS Code | Anaconda  
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  
+![MATLAB](https://img.shields.io/badge/MATLAB-CC3333?style=flat&logo=matlab&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+
+### **Development Tools**  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+
+### **Cloud & Platforms**  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)  
 
 ✨ _Always learning, always building!_ ✨
