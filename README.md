@@ -23,7 +23,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=cobalt)  
 
 ## 🏆 GitHub Trophies  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ## 📌 Pinned Repositories  
 [![WhatsApp Bot Project](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=your-bot-repo&theme=cobalt)](https://github.com/Ivanhutabarat/your-bot-repo)  
