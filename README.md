@@ -6,7 +6,8 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=24&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ivan+Hutabarat!;19+years+old+Tech+Enthusiast;Started+Programming+at+13;Geophysics+Student;WhatsApp+Bot+Developer;Always+Learning!)
 
 ## 🔗 Connect with Me  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283852553348)  
+[![WhatsApp Owner](https://img.shields.io/badge/WhatsApp%20Owner-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285260245100)  
+[![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283852553348)  
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://bit.ly/3OgoGSC)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-hutabarat/)  
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivan_hutabarat)  
@@ -14,6 +15,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ivan_hutabarat)  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)  
 [![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/~your-id)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ivanhutabarat)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ivanhutabarat)  
 
 ## 🚀 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=cobalt)  
