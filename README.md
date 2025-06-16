@@ -19,7 +19,7 @@
 
 ## 🚀 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=cobalt)  
-![Profile Views](https://komarev.com/ghpvc/?username=Ivanhutabarat&color=red)  
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=cobalt)  
 
 ## 🏆 GitHub Trophies  
