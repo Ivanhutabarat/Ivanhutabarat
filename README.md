@@ -26,9 +26,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=cobalt)  
 
 ## 🏆 GitHub Trophies  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy) )  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy) )
 
-## 📌 Pinned Repositories  
+ 
 [![WhatsApp Bot Project](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=your-bot-repo&theme=cobalt)](https://github.com/Ivanhutabarat/your-bot-repo)  
 [![Geophysics Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=your-data-repo&theme=cobalt)](https://github.com/Ivanhutabarat/your-data-repo)  
 
@@ -39,8 +39,13 @@
 [![Achievement](https://github-profile-achievements.vercel.app/?username=Ivanhutabarat)](https://github.com/Ivanhutabarat)  
 
 ## 🔥 Fun Elements  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivanhutabarat&theme=cobalt)  
-[![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=cobalt)](https://wakatime.com/@yourusername)  
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ivanhutabarat&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=cobalt)](https://wakatime.com/@yourusername) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical)
 
 ## 📢 Inspirational Quote  
 *"Technology like art is a soaring exercise of the human imagination."* – Daniel Bell  
@@ -71,6 +76,44 @@
 ### **Cybersecurity & Networking**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-006400?style=flat&logo=nmap&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-006400?style=flat&logo=nmap&logoColor=white)
+
+
+### 🛠️ Skill Set
+
+<p align="left">
+  <!-- 🌐 Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+  <!-- ⚙️ Programming & Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- 🤖 Bot & Notebook -->
+  <img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
+  <!-- 📊 Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-74c0fc?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <!-- 🌍 Geophysics Tools -->
+  <img src="https://img.shields.io/badge/ObsPy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Signal%20Processing-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seismic%20Data%20Analysis-blue?style=for-the-badge"/>
+</p>
+#
 
 ✨ _Always learning, always building!_ ✨
