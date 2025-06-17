@@ -114,6 +114,34 @@
   <img src="https://img.shields.io/badge/Signal%20Processing-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seismic%20Data%20Analysis-blue?style=for-the-badge"/>
 </p>
+
+### 🏅 Achievements
+
+<p align="left">
+  <!-- WhatsApp Bot Builder -->
+  <img src="https://img.shields.io/badge/WhatsApp%20Bot%20Developer-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+  <!-- Geophysics Tech User -->
+  <img src="https://img.shields.io/badge/Geophysics%20Tools%20User-Science-blue?style=for-the-badge"/>
+
+  <!-- Signal Processing Mastery -->
+  <img src="https://img.shields.io/badge/Signal%20Processing%20Achiever-orange?style=for-the-badge"/>
+
+  <!-- Python Automation -->
+  <img src="https://img.shields.io/badge/Python%20Automation%20Builder-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- MATLAB Projects Done -->
+  <img src="https://img.shields.io/badge/MATLAB%20Projects%20Complete-0076A8?style=for-the-badge"/>
+
+  <!-- Contribution to Labs -->
+  <img src="https://img.shields.io/badge/Contributor%20to%20Lab%20Projects-yellow?style=for-the-badge"/>
+
+  <!-- Jupyter Champion -->
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook%20Wizard-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+  <!-- Geoscience x Coding -->
+  <img src="https://img.shields.io/badge/GeoScience%20x%20Coding-green?style=for-the-badge"/>
+</p>
 #
 
 ✨ _Always learning, always building!_ ✨
