@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ivan Hutabarat!  
-<img src="https://i.imgur.com/gOUibWg.gif" alt="Hello" width="200"/>
+<img src="https://i.imgur.com/gOUibWg.gif" alt="Hello" width="400"/>
 
 🎓 **Geophysics Student** | 💻 **WhatsApp Bot Developer** | 🚀 **Tech Enthusiast**  
 
