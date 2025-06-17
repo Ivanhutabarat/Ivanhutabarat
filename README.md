@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Ivan Hutabarat!  
-<img src="https://github.com/ksei-Indonesia/ksei-Indonesia/assets/104238874/12aae6bb-4d55-46a7-b7f4-97437027d199" alt="Hello" width="200"/>
+<img src="https://raw.githubusercontent.com/irfansyahputra-id/public-assets/main/anime-wave.gif" alt="Hello" width="200"/>
 
 🎓 **Geophysics Student** | 💻 **WhatsApp Bot Developer** | 🚀 **Tech Enthusiast**  
 
