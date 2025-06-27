@@ -77,16 +77,25 @@ bash
 
 ---
 
+
 ## 🧠 Van-Botz AI Core
 
-```bash
+```terminal
+╔══════════════════════════════════════════════╗
+║         🧠 VAN-BOTZ AI CORE SYSTEM           ║
+╚══════════════════════════════════════════════╝
+
 > identity.scan --user=ivan-hutabarat
 > status: VERIFIED
 > hash: 0xV4N-B0TZ-5090X3D
 > scanning personality...
 > result: 70% logic, 30% caffeine ☕
-```
 
+> core.temp: stable
+> creativity.module: overclocked
+> humor.protocol: enabled 😏
+
+> “System personality loaded. Welcome back, Commander.”
 - 👨‍💻 Geophysics student with a passion for code
 - 🤖 WhatsApp bot developer & automation enthusiast
 - 🎮 Gamer, PC builder, and performance optimizer
