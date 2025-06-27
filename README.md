@@ -5,11 +5,20 @@
 
 ---
 
+
 ## 🔥 Typing Animation  
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=24&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ivan+Hutabarat!;19+years+old+Tech+Enthusiast;Started+Programming+at+13;Geophysics+Student;WhatsApp+Bot+Developer;Always+Learning!)
 
 ---
+<img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=24&center=true&vCenter=true&width=600&lines=Van-Botz+OS+v5090-X™+Booting...;Checking+Hardware+Integrity...;Ryzen+9+9800X3D+Detected+✅;RTX+5090+Online+✅;DLSS+3.5+Enabled+⚡;Ray+Tracing+Active+🎮;System+Uplink:+ivan-hutabarat.vanbotz.hex;DEPLOYING+SYSTEM...+█▓▒░BOOT+SUCCESSFUL░▒▓█" />
 
+![Powered by Ryzen 9 9800X3D](https://img.shields.io/badge/Powered_by-Ryzen_9_9800X3D-ED1C24?style=flat-square&logo=amd&logoColor=white)
+![Fueled by RTX 5090](https://img.shields.io/badge/Fueled_by-RTX_5090-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Ultra 4K Gaming](https://img.shields.io/badge/4K-Ultra_Graphics-gold?style=flat-square&logo=windows&logoColor=white)
+![Ray Tracing ON](https://img.shields.io/badge/Ray_Tracing-Enabled-blueviolet?style=flat-square&logo=nvidia&logoColor=white)
+![DLSS 3.5 Active](https://img.shields.io/badge/DLSS_3.5-Active-0F9D58?style=flat-square&logo=nvidia&logoColor=white)
+![ASUS ROG Gear](https://img.shields.io/badge/ASUS_ROG-Gaming_Components-darkred?style=flat-square&logo=asus&logoColor=white)
+![Van-Botz Certified™](https://img.shields.io/badge/Van--Botz-Certified_Identity-FF1493?style=flat-square&logo=github&logoColor=white)
 ## 🔗 Connect with Me
 
 [![WhatsApp Owner](https://img.shields.io/badge/WhatsApp%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285260245100)  
@@ -36,11 +45,61 @@
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
+---
 
-## 🚀 Featured Projects
+##🔥🔥fatured Projects
 
 [![WhatsApp Bot Project](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=WaBot&theme=cobalt)](https://github.com/Ivanhutabarat/WaBot)  
 [![Geophysics Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=Geophysics-Data&theme=cobalt)](https://github.com/Ivanhutabarat/Geophysics-Data)  
+
+---
+
+
+## 🔥 `Projects by Ivan: Full Repository Showcase`
+
+bash
+> syncing Ivanhutabarat/repos --public --attach=badges/language
+
+
+| Repository                                              | Description                                                                                          | Language      |
+|----------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|
+| [`n8n-whatsapp-geophysics`](https://github.com/Ivanhutabarat/n8n-whatsapp-geophysics) | Automasi WhatsApp + analisis data geofisika pakai n8n                                                | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [`Ivanhutabarat`](https://github.com/Ivanhutabarat/Ivanhutabarat) | GitHub profile config + visual identity                                                              | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| [`Geophysics-visualization`](https://github.com/Ivanhutabarat/Geophysics-visualization) | Visualisasi data geofisika menggunakan Python dan Matplotlib                                         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [`Modelling-geofisika`](https://github.com/Ivanhutabarat/Modelling-geofisika) | Pemodelan geofisika berbasis Jupyter Notebook                                                        | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [`Van-Botz2`](https://github.com/Ivanhutabarat/Van-Botz2) | WhatsApp bot modular (v2) menggunakan JavaScript + Baileys                                           | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [`n8n-Automation2`](https://github.com/Ivanhutabarat/n8n-Automation2) | Automation workflow tambahan untuk n8n                                                               | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [`N8n-Automation`](https://github.com/Ivanhutabarat/N8n-Automation) | Koleksi awal workflow automation dengan n8n                                                          | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [`geophysics-data-visualization`](https://github.com/Ivanhutabarat/geophysics-data-visualization) | Visualisasi + analisis data geofisika berbasis Python                                                | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [`whatsapp-bot-starter`](https://github.com/Ivanhutabarat/whatsapp-bot-starter) | Starter kit WhatsApp bot ringan & modular menggunakan JavaScript                                     | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+> _From geoscience to automation, everything is built with love and logic._ 💻🌍
+
+---
+
+## 🧠 Van-Botz AI Core
+
+```bash
+> identity.scan --user=ivan-hutabarat
+> status: VERIFIED
+> hash: 0xV4N-B0TZ-5090X3D
+> scanning personality...
+> result: 70% logic, 30% caffeine ☕
+```
+
+- 👨‍💻 Geophysics student with a passion for code
+- 🤖 WhatsApp bot developer & automation enthusiast
+- 🎮 Gamer, PC builder, and performance optimizer
+- 🧠 Started programming at 13 (and never stopped tweaking)
+- 🔬 Obsessed with ray tracing, DLSS, and RGB that syncs like a symphony
+- 🧩 Creator of Van-Botz OS v5090-X™
+- ⚡ Currently optimizing: electricity bills vs ultra settings
+
+```bash
+> core.temp: stable
+> creativity.module: overclocked
+> humor.protocol: enabled 😏
+```
 
 ---
 
