@@ -36,6 +36,12 @@
 ![Case](https://img.shields.io/badge/Case-Corsair_9000D_RGB-1B1F23?style=flat-square&logo=corsair)
 
 ---
+## 🎮 RTX Features
+
+![Ray Tracing](https://img.shields.io/badge/Ray_Tracing-Enabled-0A84FF?style=flat-square&logo=nvidia)
+![DLSS](https://img.shields.io/badge/DLSS_4-Super_Resolution-76B900?style=flat-square&logo=nvidia)
+![RTX ON](https://img.shields.io/badge/RTX-ON-00FFD1?style=flat-square&logo=nvidia)
+![Path Tracing](https://img.shields.io/badge/Path_Tracing-Active-FF1493?style=flat-square&logo=ray)
 
 ## 🎮 Periferal & Visual Setup
 
