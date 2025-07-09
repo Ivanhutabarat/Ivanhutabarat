@@ -14,11 +14,23 @@
 
 ## 🧩 Ivan Hutabarat OS v5090-X™ Hardware Core
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Booting+Van-Botz+OS+v5090-X%E2%84%A2..." alt="Typing SVG" />
+  <h1>👨‍💻 Ivan Hutabarat | Ivan Hutabarat OS v5090-X™</h1>
+  <p><i>“Precision meets personality.”</i></p>
+</div>
+
+---
+
+## 🧩 Hardware Core
+
+> Powered by Ryzen 9 & RTX 5090 — built for simulation, creation, domination.
+
 ![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9800X3D-ED1C24?style=flat-square&logo=amd)
 ![GPU](https://img.shields.io/badge/GPU-RTX_5090-76B900?style=flat-square&logo=nvidia)
 ![Motherboard](https://img.shields.io/badge/Mobo-Gigabyte_X870_AORUS-0052CC?style=flat-square&logo=gigabyte)
-![RAM](https://img.shields.io/badge/RAM-32GB_DDR5_6400MHz-8A2BE2?style=flat-square&logo=corsair)
-![Storage](https://img.shields.io/badge/SSD-Samsung_990_Pro_2TB-0ABFBC?style=flat-square&logo=samsung)
+![RAM](https://img.shields.io/badge/RAM-64GB_DDR5_6400MHz-8A2BE2?style=flat-square&logo=corsair)
+![Storage](https://img.shields.io/badge/SSD-4TB_NVMe_+_HDD_4TB-0ABFBC?style=flat-square&logo=samsung)
 ![Cooling](https://img.shields.io/badge/Cooling-ROG_Ryujin_III_360-FF003C?style=flat-square&logo=asus)
 ![PSU](https://img.shields.io/badge/PSU-MSI_MEGAi1300P_Platinum-FF6600?style=flat-square&logo=msi)
 ![Case](https://img.shields.io/badge/Case-Corsair_9000D_RGB-1B1F23?style=flat-square&logo=corsair)
@@ -27,6 +39,8 @@
 
 ## 🎮 Periferal & Visual Setup
 
+> Built for clarity, speed, and style.
+
 ![Monitor](https://img.shields.io/badge/Monitor-ROG_PG32UQX_4K_144Hz-FF3366?style=flat-square&logo=asus)
 ![Keyboard](https://img.shields.io/badge/Keyboard-Corsair_K100_RGB-00BFFF?style=flat-square&logo=corsair)
 ![Mouse](https://img.shields.io/badge/Mouse-G_Pro_X_Superlight_2-000000?style=flat-square&logo=logitech)
@@ -34,11 +48,13 @@
 ![Speaker](https://img.shields.io/badge/Speaker-Edifier_G2000_RGB-FF8800?style=flat-square&logo=edifier)
 ![Webcam](https://img.shields.io/badge/Webcam-Logitech_C922_HD-6666FF?style=flat-square&logo=logitech)
 ![Mousepad](https://img.shields.io/badge/Mousepad-darkFlash_RGB_XXL-FF69B4?style=flat-square)
-![RGB](https://img.shields.io/badge/Ambient-Govee_Light_Strip-FFD700?style=flat-square&logo=google-home)
+![RGB](https://img.shields.io/badge/Ambient-Govee_Light_Strip-FFD700?style=flat-square)
 
 ---
 
 ## 💻 Sistem Operasi & Software
+
+> Productivity meets protection.
 
 ![OS](https://img.shields.io/badge/OS-Windows_11_Pro-0078D6?style=flat-square&logo=windows)
 ![Office](https://img.shields.io/badge/Office-Microsoft_Office_2021-FF6F00?style=flat-square&logo=microsoft-office)
@@ -46,7 +62,9 @@
 
 ---
 
-## 🛡️ Pendukung & Keamanan
+## 🛡️ Supporters & Security
+
+> Stability, airflow, and long-term reliability.
 
 ![UPS](https://img.shields.io/badge/UPS-Prolink_1500VA-4B0082?style=flat-square)
 ![LAN](https://img.shields.io/badge/LAN-Belden_Cat6-228B22?style=flat-square)
@@ -55,6 +73,21 @@
 ![Blower](https://img.shields.io/badge/Blower-X3Pro_Turbo_Jet-FF4500?style=flat-square)
 ![Power](https://img.shields.io/badge/Power_Strip-Baseus_Combo_30W-DAA520?style=flat-square)
 ![Chair](https://img.shields.io/badge/Chair-Rexus_Dark_Thrones-8B4513?style=flat-square)
+
+---
+
+## 🧠 Use Case
+
+- 🎮 4K Ultra Gaming (Warzone, Cyberpunk, Starfield)
+- 🌍 Simulasi Geofisika (MATLAB, COMSOL, Petrel)
+- 🎥 Video Editing & AI Art Generation
+- 🧪 Local AI Inference & Prompt Engineering
+- 🧰 Terminal-style GitHub Branding
+
+---
+
+> _“This machine doesn’t just run code. It runs imagination.”_  
+> — Ivan Hutabarat OS v5090-X™
 
 ## 🧭 Why I Code
 
