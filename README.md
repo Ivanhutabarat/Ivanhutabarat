@@ -19,6 +19,32 @@
 ![DLSS 3.5 Active](https://img.shields.io/badge/DLSS_3.5-Active-0F9D58?style=flat-square&logo=nvidia&logoColor=white)
 ![ASUS ROG Gear](https://img.shields.io/badge/ASUS_ROG-Gaming_Components-darkred?style=flat-square&logo=asus&logoColor=white)
 ![Van-Botz Certified™](https://img.shields.io/badge/Van--Botz-Certified_Identity-FF1493?style=flat-square&logo=github&logoColor=white)
+
+## 🧭 Why I Code
+
+I code not just to build, but to understand.  
+To connect logic with the earth beneath us.  
+To turn raw data into stories, and silence into signals.  
+Geophysics is my compass. Code is my language. Creativity is my fuel.
+
+---
+
+## 🔍 What I’m Exploring Now
+
+- 🌋 Seismic data visualization using Python  
+- 🧠 Prompt engineering for AI-generated art  
+- 🛰️ Integrating geophysical data with machine learning  
+- 🎨 Designing expressive, cinematic README layouts  
+- 🛠️ Building tools that blend science, storytelling, and self-expression
+
+---
+
+## 🌌 I’m Not Just Code
+
+- 🎮 Gamer by night: *Racing Master*, *Clash of Clans*, and *PUBG*  
+- 📷 AI art explorer with a love for visual storytelling  
+- 🧭 Curious about how the earth breathes and how data speaks  
+- 😄 Still figuring things out—and that’s okay
 ## 🔗 Connect with Me
 
 [![WhatsApp Owner](https://img.shields.io/badge/WhatsApp%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285260245100)  
