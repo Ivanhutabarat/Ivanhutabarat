@@ -177,7 +177,7 @@ bash
 
 ```terminal
 ╔══════════════════════════════════════════════╗
-║         🧠 VAN-BOTZ AI CORE SYSTEM           ║
+║         🧠 VAN-BOTZ AI CORE SYSTEM                   ║
 ╚══════════════════════════════════════════════╝
 
 > identity.scan --user=ivan-hutabarat
