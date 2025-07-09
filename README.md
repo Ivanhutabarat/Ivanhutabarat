@@ -12,13 +12,49 @@
 ---
 <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=24&center=true&vCenter=true&width=600&lines=Van-Botz+OS+v5090-X™+Booting...;Checking+Hardware+Integrity...;Ryzen+9+9800X3D+Detected+✅;RTX+5090+Online+✅;DLSS+3.5+Enabled+⚡;Ray+Tracing+Active+🎮;System+Uplink:+ivan-hutabarat.vanbotz.hex;DEPLOYING+SYSTEM...+█▓▒░BOOT+SUCCESSFUL░▒▓█" />
 
-![Powered by Ryzen 9 9800X3D](https://img.shields.io/badge/Powered_by-Ryzen_9_9800X3D-ED1C24?style=flat-square&logo=amd&logoColor=white)
-![Fueled by RTX 5090](https://img.shields.io/badge/Fueled_by-RTX_5090-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Ultra 4K Gaming](https://img.shields.io/badge/4K-Ultra_Graphics-gold?style=flat-square&logo=windows&logoColor=white)
-![Ray Tracing ON](https://img.shields.io/badge/Ray_Tracing-Enabled-blueviolet?style=flat-square&logo=nvidia&logoColor=white)
-![DLSS 3.5 Active](https://img.shields.io/badge/DLSS_3.5-Active-0F9D58?style=flat-square&logo=nvidia&logoColor=white)
-![ASUS ROG Gear](https://img.shields.io/badge/ASUS_ROG-Gaming_Components-darkred?style=flat-square&logo=asus&logoColor=white)
-![Van-Botz Certified™](https://img.shields.io/badge/Van--Botz-Certified_Identity-FF1493?style=flat-square&logo=github&logoColor=white)
+## 🧩 Ivan Hutabarat OS v5090-X™ Hardware Core
+
+![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9800X3D-ED1C24?style=flat-square&logo=amd)
+![GPU](https://img.shields.io/badge/GPU-RTX_5090-76B900?style=flat-square&logo=nvidia)
+![Motherboard](https://img.shields.io/badge/Mobo-Gigabyte_X870_AORUS-0052CC?style=flat-square&logo=gigabyte)
+![RAM](https://img.shields.io/badge/RAM-32GB_DDR5_6400MHz-8A2BE2?style=flat-square&logo=corsair)
+![Storage](https://img.shields.io/badge/SSD-Samsung_990_Pro_2TB-0ABFBC?style=flat-square&logo=samsung)
+![Cooling](https://img.shields.io/badge/Cooling-ROG_Ryujin_III_360-FF003C?style=flat-square&logo=asus)
+![PSU](https://img.shields.io/badge/PSU-MSI_MEGAi1300P_Platinum-FF6600?style=flat-square&logo=msi)
+![Case](https://img.shields.io/badge/Case-Corsair_9000D_RGB-1B1F23?style=flat-square&logo=corsair)
+
+---
+
+## 🎮 Periferal & Visual Setup
+
+![Monitor](https://img.shields.io/badge/Monitor-ROG_PG32UQX_4K_144Hz-FF3366?style=flat-square&logo=asus)
+![Keyboard](https://img.shields.io/badge/Keyboard-Corsair_K100_RGB-00BFFF?style=flat-square&logo=corsair)
+![Mouse](https://img.shields.io/badge/Mouse-G_Pro_X_Superlight_2-000000?style=flat-square&logo=logitech)
+![Headset](https://img.shields.io/badge/Headset-Razer_BlackShark_V2_X-00FF00?style=flat-square&logo=razer)
+![Speaker](https://img.shields.io/badge/Speaker-Edifier_G2000_RGB-FF8800?style=flat-square&logo=edifier)
+![Webcam](https://img.shields.io/badge/Webcam-Logitech_C922_HD-6666FF?style=flat-square&logo=logitech)
+![Mousepad](https://img.shields.io/badge/Mousepad-darkFlash_RGB_XXL-FF69B4?style=flat-square)
+![RGB](https://img.shields.io/badge/Ambient-Govee_Light_Strip-FFD700?style=flat-square&logo=google-home)
+
+---
+
+## 💻 Sistem Operasi & Software
+
+![OS](https://img.shields.io/badge/OS-Windows_11_Pro-0078D6?style=flat-square&logo=windows)
+![Office](https://img.shields.io/badge/Office-Microsoft_Office_2021-FF6F00?style=flat-square&logo=microsoft-office)
+![Antivirus](https://img.shields.io/badge/Security-Bitdefender_Total_Security-CC0000?style=flat-square&logo=bitdefender)
+
+---
+
+## 🛡️ Pendukung & Keamanan
+
+![UPS](https://img.shields.io/badge/UPS-Prolink_1500VA-4B0082?style=flat-square)
+![LAN](https://img.shields.io/badge/LAN-Belden_Cat6-228B22?style=flat-square)
+![Cable](https://img.shields.io/badge/Cable-Vention_DP_1.4_8K-4682B4?style=flat-square)
+![Dust](https://img.shields.io/badge/Dust_Filter-Magnetic_Mesh-708090?style=flat-square)
+![Blower](https://img.shields.io/badge/Blower-X3Pro_Turbo_Jet-FF4500?style=flat-square)
+![Power](https://img.shields.io/badge/Power_Strip-Baseus_Combo_30W-DAA520?style=flat-square)
+![Chair](https://img.shields.io/badge/Chair-Rexus_Dark_Thrones-8B4513?style=flat-square)
 
 ## 🧭 Why I Code
 
