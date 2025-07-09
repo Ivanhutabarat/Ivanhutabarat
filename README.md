@@ -15,7 +15,7 @@
 ## 🧩 Ivan Hutabarat OS v5090-X™ Hardware Core
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Booting+Ivan+Hutabarat+OS+v5090-X%E2%84%A2..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Booting+Van-Botz+OS+v5090-X%E2%84%A2..." alt="Typing SVG" />
   <h1>👨‍💻 Ivan Hutabarat | Ivan Hutabarat OS v5090-X™</h1>
   <p><i>“Precision meets personality.”</i></p>
 </div>
