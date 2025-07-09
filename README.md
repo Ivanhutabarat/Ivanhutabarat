@@ -267,6 +267,16 @@ bash
 ## 📢 Inspirational Quote  
 > *"Technology like art is a soaring exercise of the human imagination."* – Daniel Bell
 
+> "I live between logic and feeling—  
+writing code not just to build,  
+but to understand the world and myself.  
+Not to be extraordinary,  
+but to be honest in every step.  
+To dive through meaning,  
+and search for direction  
+between the waves of the world  
+and the lines of data.
+"— Ivan Hutabarat
 ---
 
 ✨ _Always learning, always building!_ ✨
