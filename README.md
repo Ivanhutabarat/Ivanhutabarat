@@ -187,8 +187,7 @@ Geophysics is my compass. Code is my language. Creativity is my fuel.
 ![Streak Stats](https://streak-stats.demolab.com?user=Ivanhutabarat&theme=dark&border_radius=5)  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivanhutabarat&theme=react-dark)  
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma
----
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat)
 ---
 
 ##🔥🔥fatured Projects
