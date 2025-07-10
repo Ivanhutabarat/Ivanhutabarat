@@ -82,14 +82,32 @@
 
 ---
 
+<kbd>👾⚙️ Digital Ecosystem: The Ipan Protocol // Neo Core</kbd>  
+_A daily injection of code, combat, and cinematic energy — electrified in luminescent syntax._
+
+---
+
 ### 🧠 CODE // NODE
 ![Termux](https://img.shields.io/badge/TΞRMUX-000000?logo=gnubash&style=for-the-badge&labelColor=1a1a1a)
 ![GitHub](https://img.shields.io/badge/GIⱴHUB-181717?logo=github&style=for-the-badge&labelColor=24292e)
-![VSCode](https://img.shields.io/badge/VS⚡️CODE-0d1117?logo=visualstudiocode&style=for-the-badge&labelColor=007ACC)
-![Notepad++](https://img.shields.io/badge/N✪TΞPAD++-2d2d2d?logo=notepadplusplus&style=for-the-badge&labelColor=90E23D)
-![Orchid](https://img.shields.io/badge/⚛️ORCHID-purple?style=for-the-badge&labelColor=800080)
-![Stack Overflow](https://img.shields.io/badge/STΔCK▯VERFL☰W-F58025?logo=stackoverflow&style=for-the-badge&labelColor=333)
+![VS⚡️CODE](https://img.shields.io/badge/VS%20CODE-007ACC?logo=visualstudiocode&style=for-the-badge&labelColor=0d1117)
+![N✪TΞPAD++](https://img.shields.io/badge/Notepad++-90E23D?logo=notepadplusplus&style=for-the-badge&labelColor=2d2d2d)
+![⚛️ORCHID](https://img.shields.io/badge/Orchid-purple?style=for-the-badge&labelColor=800080)
+![STΔCK▯VERFL☰W](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&style=for-the-badge&labelColor=333)
 
+---
+
+### 🎮 GAME // MODE
+![🏁RACING⸸MASTER](https://img.shields.io/badge/RACING_MASTER-EA0027?logo=playstation&style=for-the-badge&labelColor=1a1a1a)
+![PUBG⚔️ZONE](https://img.shields.io/badge/PUBG-000000?logo=pubg&style=for-the-badge&labelColor=111111)
+![MI⧉CRAFT](https://img.shields.io/badge/Minecraft-00ff00?logo=minecraft&style=for-the-badge&labelColor=3c3c3c)
+
+---
+
+### 📺 STREAM // VIBE
+![NΞTFL!X](https://img.shields.io/badge/Netflix-e50914?logo=netflix&style=for-the-badge&labelColor=111111)
+![Y⚡️UTUBE](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&labelColor=0d0d0d)
+![⸸IK⸸☯K](https://img.shields.io/badge/TikTok-000000?logo=tiktok&style=for-the-badge&labelColor=1a1a1a)
 ---
 
 ### 🎮 GAME // MODE
@@ -103,6 +121,22 @@
 ![Netflix](https://img.shields.io/badge/NΞTFL!X-e50914?logo=netflix&style=for-the-badge&labelColor=111111)
 ![YouTube](https://img.shields.io/badge/Y⚡️UTUBE-FF0000?logo=youtube&style=for-the-badge&labelColor=0d0d0d)
 ![TikTok](https://img.shields.io/badge/⸸IK⸸☯K-000000?logo=tiktok&style=for-the-badge&labelColor=1a1a1a)
+
+---
+
+🧠 SYSTEM LOG :: `IP4N-HUB`  
+🔧 STATUS :: `Online`  
+🛠️ MODULES LOADED :: `Code | Game | Stream`  
+📡 SIGNAL STRENGTH :: `∞`  
+🎮 PROFILE SYNCED :: `Visual Protocol Ready`
+
+_// Initializing system..._  
+`Loading Ipan Protocol... ✅`  
+`Injecting caffeine... ⚡`  
+`Running GitOps Cinematic Shell... 🌀`  
+`Status: ENGAGED.` 🟢
+
+---
 
 ## 🧠 Use Case
 
