@@ -96,7 +96,7 @@
 
 > Stability, airflow, and long-term performance.
 
-![UPS](https://img.shields.io/badge/UPS-Prolink_1500VA_Smart-4B0082?style=flat-square)
+![UPS](https://img.shields.io/badge/UPS-APC_SRT3000XLI_3000VA_Online-FF0000?style=flat-square&logo=apc)
 ![LAN](https://img.shields.io/badge/LAN-Belden_Cat6_10m-228B22?style=flat-square)
 ![Cable](https://img.shields.io/badge/Cable-Vention_DP_1.4_8K-4682B4?style=flat-square)
 ![Dust](https://img.shields.io/badge/Dust_Filter-Magnetic_Mesh-708090?style=flat-square)
@@ -111,7 +111,6 @@
 
 ![Chair](https://img.shields.io/badge/Chair-Rexus_Dark_Thrones-8B4513?style=flat-square)
 ![Desk](https://img.shields.io/badge/Desk-IKEA_Uppspel_Gaming_Desk-228B22?style=flat-square&logo=ikea)
-![Room](https://img.shields.io/badge/Room_Theme-White_&_Gold_Minimalist-FDF5E6?style=flat-square)
 
 ---
 
