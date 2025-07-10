@@ -38,7 +38,7 @@
 ![RAM](https://img.shields.io/badge/RAM-128GB_DDR5_6400MHz-8A2BE2?style=flat-square&logo=corsair)
 ![Storage](https://img.shields.io/badge/SSD-2x_8TB_NVMe_+_4TB_HDD-0ABFBC?style=flat-square&logo=samsung)
 ![Cooling](https://img.shields.io/badge/Cooling-ROG_Ryujin_III_360_ARGB-FF003C?style=flat-square&logo=asus)
-![PSU](https://img.shields.io/badge/PSU-MSI_MEGAi1300P_Platinum-FF6600?style=flat-square&logo=msi)
+![PSU](https://img.shields.io/badge/PSU-MSI_MEGAi1600P_ATX_3.1_Platinum-FF6600?style=flat-square&logo=msi)
 ![Case](https://img.shields.io/badge/Case-Corsair_9000D_Full_Tower_RGB-1B1F23?style=flat-square&logo=corsair)
 
 ---
