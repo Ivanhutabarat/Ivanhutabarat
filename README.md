@@ -31,7 +31,7 @@
 
 > Powered by Ryzen 9 & RTX 5090 + RTX 4090 — built for simulation, creation, domination and games.
 
-![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9800X3D-ED1C24?style=flat-square&logo=amd)
+![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9900X3D-ED1C24?style=flat-square&logo=amd)
 ![GPU_1](https://img.shields.io/badge/GPU_1-RTX_5090_FE-76B900?style=flat-square&logo=nvidia)
 ![GPU_2](https://img.shields.io/badge/GPU_2-RTX_4090_Strix_OC-00FFD1?style=flat-square&logo=nvidia)
 ![Motherboard](https://img.shields.io/badge/Mobo-Gigabyte_X870_AORUS-0052CC?style=flat-square&logo=gigabyte)
