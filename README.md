@@ -101,6 +101,7 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 ![Racing Master](https://img.shields.io/badge/🏁RAΞCING⸸MASTER-ff004f?logo=playstation&style=for-the-badge&labelColor=121212)
 ![PUBG](https://img.shields.io/badge/PUBG⚔️ZONE-111111?logo=pubg&style=for-the-badge&labelColor=000)
 ![Minecraft](https://img.shields.io/badge/MI⧉CRAFT-00ff00?logo=minecraft&style=for-the-badge&labelColor=3c3c3c)
+![CLΔSH⚔️OF⸸CLANS](https://img.shields.io/badge/Clash_of_Clans-FFCC00?logo=clashofclans&style=for-the-badge&labelColor=8B0000)
 
 ---
 
