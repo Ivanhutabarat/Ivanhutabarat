@@ -136,7 +136,7 @@ _// Initializing system..._
 ---
 
 > _“This machine doesn’t just run code. It runs imagination.”_  
-> — Ivan Hutabarat OS v5090-X™
+> — Ivan Hutabarat 
 
 ## 🧭 Why I Code
 
