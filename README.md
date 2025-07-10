@@ -82,6 +82,28 @@
 
 ---
 
+### 🧠 CODE // NODE
+![Termux](https://img.shields.io/badge/TΞRMUX-000000?logo=gnubash&style=for-the-badge&labelColor=1a1a1a)
+![GitHub](https://img.shields.io/badge/GIⱴHUB-181717?logo=github&style=for-the-badge&labelColor=24292e)
+![VSCode](https://img.shields.io/badge/VS⚡️CODE-0d1117?logo=visualstudiocode&style=for-the-badge&labelColor=007ACC)
+![Notepad++](https://img.shields.io/badge/N✪TΞPAD++-2d2d2d?logo=notepadplusplus&style=for-the-badge&labelColor=90E23D)
+![Orchid](https://img.shields.io/badge/⚛️ORCHID-purple?style=for-the-badge&labelColor=800080)
+![Stack Overflow](https://img.shields.io/badge/STΔCK▯VERFL☰W-F58025?logo=stackoverflow&style=for-the-badge&labelColor=333)
+
+---
+
+### 🎮 GAME // MODE
+![Racing Master](https://img.shields.io/badge/🏁RAΞCING⸸MASTER-ff004f?logo=playstation&style=for-the-badge&labelColor=121212)
+![PUBG](https://img.shields.io/badge/PUBG⚔️ZONE-111111?logo=pubg&style=for-the-badge&labelColor=000)
+![Minecraft](https://img.shields.io/badge/MI⧉CRAFT-00ff00?logo=minecraft&style=for-the-badge&labelColor=3c3c3c)
+
+---
+
+### 📺 STREAM // VIBE
+![Netflix](https://img.shields.io/badge/NΞTFL!X-e50914?logo=netflix&style=for-the-badge&labelColor=111111)
+![YouTube](https://img.shields.io/badge/Y⚡️UTUBE-FF0000?logo=youtube&style=for-the-badge&labelColor=0d0d0d)
+![TikTok](https://img.shields.io/badge/⸸IK⸸☯K-000000?logo=tiktok&style=for-the-badge&labelColor=1a1a1a)
+
 ## 🧠 Use Case
 
 - 🎮 4K Ultra Gaming (Warzone, Cyberpunk, Starfield)
