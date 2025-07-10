@@ -82,7 +82,7 @@
 
 ---
 
-<kbd>👾⚙️ Digital Ecosystem: The Ipan Protocol // Neo Core</kbd>  
+<kbd>👾⚙️ Digital Ecosystem: The Ivan Protocol // Neo Core</kbd>  
 _A daily injection of code, combat, and cinematic energy — electrified in luminescent syntax._
 
 ---
