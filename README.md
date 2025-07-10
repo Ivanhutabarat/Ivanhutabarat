@@ -98,19 +98,6 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 ---
 
 ### 🎮 GAME // MODE
-![🏁RACING⸸MASTER](https://img.shields.io/badge/RACING_MASTER-EA0027?logo=playstation&style=for-the-badge&labelColor=1a1a1a)
-![PUBG⚔️ZONE](https://img.shields.io/badge/PUBG-000000?logo=pubg&style=for-the-badge&labelColor=111111)
-![MI⧉CRAFT](https://img.shields.io/badge/Minecraft-00ff00?logo=minecraft&style=for-the-badge&labelColor=3c3c3c)
-
----
-
-### 📺 STREAM // VIBE
-![NΞTFL!X](https://img.shields.io/badge/Netflix-e50914?logo=netflix&style=for-the-badge&labelColor=111111)
-![Y⚡️UTUBE](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&labelColor=0d0d0d)
-![⸸IK⸸☯K](https://img.shields.io/badge/TikTok-000000?logo=tiktok&style=for-the-badge&labelColor=1a1a1a)
----
-
-### 🎮 GAME // MODE
 ![Racing Master](https://img.shields.io/badge/🏁RAΞCING⸸MASTER-ff004f?logo=playstation&style=for-the-badge&labelColor=121212)
 ![PUBG](https://img.shields.io/badge/PUBG⚔️ZONE-111111?logo=pubg&style=for-the-badge&labelColor=000)
 ![Minecraft](https://img.shields.io/badge/MI⧉CRAFT-00ff00?logo=minecraft&style=for-the-badge&labelColor=3c3c3c)
