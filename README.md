@@ -126,7 +126,7 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 ![N✪TΞPAD++](https://img.shields.io/badge/Notepad++-90E23D?logo=notepadplusplus&style=for-the-badge&labelColor=2d2d2d)
 ![⚛️ORCHID](https://img.shields.io/badge/Orchid-purple?style=for-the-badge&labelColor=800080)
 ![STΔCK▯VERFL☰W](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&style=for-the-badge&labelColor=333)
-
+![n8n](https://img.shields.io/badge/Automation-n8n-FF6D00?logo=n8n&logoColor=white)
 ---
 
 ### 🎮 GAME // MODE
