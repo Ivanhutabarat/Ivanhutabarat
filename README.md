@@ -39,10 +39,15 @@
 
 # ❄️ Cooling & Airflow Matrix
 
+![CPU Cooler](https://img.shields.io/badge/CPU_Cooler-ROG_Ryujin_III_360_ARGB_LCD-FF003C?style=flat-square&logo=asus)
 ![Radiators](https://img.shields.io/badge/Radiators-Dual_480mm_Custom_Loop-4682B4?style=flat-square&logo=custom)
-![Fans](https://img.shields.io/badge/Fans-16x_Noctua_+_Lian_Li_ARGB-964B00?style=flat-square&logo=noctua)
-![Controller](https://img.shields.io/badge/Fan_Controller-iCUE_Commander_Pro_XT-1E90FF?style=flat-square&logo=corsair)
-![Thermals](https://img.shields.io/badge/Thermal_Logic-AI_Adjusted_Sensor_Curves-20B2AA?style=flat-square&logo=unrealengine)
+![Fans_Front](https://img.shields.io/badge/Fans_Front-8x_Noctua_NF_A12x25_Intake-964B00?style=flat-square&logo=noctua)
+![Fans_Side](https://img.shields.io/badge/Fans_Side-8x_Noctua_NF_A12x25_Intake-8B4513?style=flat-square&logo=noctua)
+![Fans_Top](https://img.shields.io/badge/Fans_Top-3x_Ryujin_OR_Lian_Li_Exhaust-9ACD32?style=flat-square&logo=asus)
+![Fan_Rear](https://img.shields.io/badge/Fan_Rear-1x_Lian_Li_SL_INF_Exhaust-DAA520?style=flat-square&logo=lian-li)
+![Pressure](https://img.shields.io/badge/Airflow_Positive-16_Intake_%2B_4_Exhaust-20B2AA?style=flat-square&logo=unrealengine)
+![Fan_Controller](https://img.shields.io/badge/Fan_Controller-iCUE_Commander_Pro_XT-1E90FF?style=flat-square&logo=corsair)
+![Thermal_Sensors](https://img.shields.io/badge/Thermal_Sensors-Digital_+_Analog_AI_Curve-4169E1?style=flat-square&logo=raspberrypi)
 
 ---
 
