@@ -15,103 +15,77 @@
   <img src="https://i.imgur.com/zjhWISL.jpeg" width="850" alt="Ivan Hutabarat OS v5090-X™ Setup in White-Gold Bedroom" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Booting+Ivan+Hutabarat+OS+v5090-X%E2%84%A2+Hardware+Core...;Dual+RTX+5090+%26+4090+Activated+:+Render,+Simulate,+Create.;Ryujin_III+Cooling+Matrix+Stable+:+Silent+Performance.;Setup+Deployed+in+White+%26+Gold+Sanctuary.;Creative+Domination+:+Initialized.">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Booting+TitanCore+v5090-X™...;🏆+Dual+GPU+Mode+Enabled+:+RTX+5090+%2B+4090.;🎯+Precision+Cooling+Engaged.;🖥️+Creative+Ops+Ready.;🧠+AI+Inference+Accelerated.">
+</p>
 
 ---
 
-## 👨‍💻 Ivan Hutabarat | Ivan Hutabarat OS v5090-X™
+# 🧩 Core Hardware
 
-> *“Precision meets personality.”*
-
----
-
-## 🧩 Hardware Core
-
-> Powered by Ryzen 9 & RTX 5090 + RTX 4090 — built for simulation, creation, domination and games.
-
-![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9900X3D-ED1C24?style=flat-square&logo=amd)
-![GPU_1](https://img.shields.io/badge/GPU_1-RTX_5090_FE-76B900?style=flat-square&logo=nvidia)
-![GPU_2](https://img.shields.io/badge/GPU_2-RTX_4090_Strix_OC-00FFD1?style=flat-square&logo=nvidia)
-![Motherboard](https://img.shields.io/badge/Mobo-Gigabyte_X870_AORUS-0052CC?style=flat-square&logo=gigabyte)
-![RAM](https://img.shields.io/badge/RAM-128GB_DDR5_6400MHz-8A2BE2?style=flat-square&logo=corsair)
-![Storage](https://img.shields.io/badge/SSD-2x_8TB_NVMe_+_4TB_HDD-0ABFBC?style=flat-square&logo=samsung)
-![Cooling](https://img.shields.io/badge/Cooling-ROG_Ryujin_III_360_ARGB-FF003C?style=flat-square&logo=asus)
-![PSU](https://img.shields.io/badge/PSU-MSI_MEGAi1600P_ATX_3.1_Platinum-FF6600?style=flat-square&logo=msi)
-![Case](https://img.shields.io/badge/Case-Corsair_9000D_Full_Tower_RGB-1B1F23?style=flat-square&logo=corsair)
+![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9950X3D-ED1C24?style=flat-square&logo=amd)
+![GPU 1](https://img.shields.io/badge/GPU_1-RTX_5090_Founders_Edition-76B900?style=flat-square&logo=nvidia)
+![GPU 2](https://img.shields.io/badge/GPU_2-RTX_4090_Strix_OC-00FFD1?style=flat-square&logo=nvidia)
+![Motherboard](https://img.shields.io/badge/Motherboard-ASUS_ROG_X870E_Extreme-0052CC?style=flat-square&logo=asus)
+![RAM](https://img.shields.io/badge/RAM-128GB_DDR5_6400MHz_RGB-8A2BE2?style=flat-square&logo=corsair)
+![Storage](https://img.shields.io/badge/Storage-2TB_NVMe_Gen5_+_4TB_SATA_SSD-0ABFBC?style=flat-square&logo=samsung)
+![Case](https://img.shields.io/badge/Case-Corsair_1000D_Super_Tower_RGB-1B1F23?style=flat-square&logo=corsair)
+![Cooling](https://img.shields.io/badge/Cooling-ROG_Ryujin_III_360_ARGB_LCD-FF003C?style=flat-square&logo=asus)
+![PSU](https://img.shields.io/badge/PSU-MSI_MEGAi1600T_ATX_3.1_Platinum-FF6600?style=flat-square&logo=msi)
 
 ---
 
-## ❄️ Cooling Matrix
+# ❄️ Cooling & Airflow Matrix
 
-> Thermal performance optimized for silence and precision.
-
-![Radiator Fans](https://img.shields.io/badge/Radiator_Fans-6x_Noctua_NF_A12x25_Push–Pull-964B00?style=flat-square&logo=noctua)
-![Exhaust Fan](https://img.shields.io/badge/Exhaust_Top_&_Rear-4x_ARGB_+_Silent_Wings-9ACD32?style=flat-square&logo=bequiet)
-![Thermal Sync](https://img.shields.io/badge/Thermal_Sync-Stable_&_Silent-20B2AA?style=flat-square&logo=unrealengine)
-
----
-
-## 🎮 RTX Features
-
-> A new era of visual power.
-
-![Ray Tracing](https://img.shields.io/badge/Ray_Tracing-Enabled-0A84FF?style=flat-square&logo=nvidia)
-![DLSS](https://img.shields.io/badge/DLSS_4-Super_Resolution-76B900?style=flat-square&logo=nvidia)
-![FrameGen](https://img.shields.io/badge/FrameGen-NVIDIA_Reflex-32CD32?style=flat-square&logo=nvidia)
-![RTX Video](https://img.shields.io/badge/RTX_Video_AI-Upscale_to_8K-DA70D6?style=flat-square&logo=nvidia)
-![Path Tracing](https://img.shields.io/badge/Path_Tracing-Active-FF1493?style=flat-square&logo=ray)
+![Radiators](https://img.shields.io/badge/Radiators-Dual_480mm_Custom_Loop-4682B4?style=flat-square&logo=custom)
+![Fans](https://img.shields.io/badge/Fans-16x_Noctua_+_Lian_Li_ARGB-964B00?style=flat-square&logo=noctua)
+![Controller](https://img.shields.io/badge/Fan_Controller-iCUE_Commander_Pro_XT-1E90FF?style=flat-square&logo=corsair)
+![Thermals](https://img.shields.io/badge/Thermal_Logic-AI_Adjusted_Sensor_Curves-20B2AA?style=flat-square&logo=unrealengine)
 
 ---
 
-## 🖥️ Visual & Input Setup
+# 🖥️ Display & Peripherals
 
-> Built for clarity, speed, and style.
-
-![Monitor](https://img.shields.io/badge/Monitor-ASUS_ROG_PG32UQX_4K_144Hz-FF3366?style=flat-square&logo=asus)
-![Keyboard](https://img.shields.io/badge/Keyboard-Corsair_K100_RGB-00BFFF?style=flat-square&logo=corsair)
-![Mouse](https://img.shields.io/badge/Mouse-G_Pro_X_Superlight_2-000000?style=flat-square&logo=logitech)
-![Headset](https://img.shields.io/badge/Headset-Razer_BlackShark_V2_X-00FF00?style=flat-square&logo=razer)
-![Speaker](https://img.shields.io/badge/Speaker-Edifier_G2000_RGB-FF8800?style=flat-square&logo=edifier)
-![Webcam](https://img.shields.io/badge/Webcam-Logitech_C922_HD-6666FF?style=flat-square&logo=logitech)
-![Mousepad](https://img.shields.io/badge/Mousepad-darkFlash_RGB_XXL-FF69B4?style=flat-square)
-![Ambient](https://img.shields.io/badge/Lighting-Govee_ARGB_Strip-FFD700?style=flat-square)
+![Monitor](https://img.shields.io/badge/Monitor-ASUS_PG32UQX_4K_144Hz_HDR-FF3366?style=flat-square&logo=asus)
+![Keyboard](https://img.shields.io/badge/Keyboard-GMMK_Pro_Custom_RGB-00BFFF?style=flat-square&logo=glorious)
+![Mouse](https://img.shields.io/badge/Mouse-Logitech_G_Pro_X_Superlight_2-000000?style=flat-square&logo=logitech)
+![Mousepad](https://img.shields.io/badge/Mousepad-XL_ARGB_Gradient_Surface-FF69B4?style=flat-square)
+![Webcam](https://img.shields.io/badge/Webcam-Elgato_Facecam_Pro_4K_HDR-6666FF?style=flat-square&logo=elgato)
+![Headset](https://img.shields.io/badge/Headset-Sennheiser_HD660S2_Studio-00FF00?style=flat-square&logo=sennheiser)
+![Speakers](https://img.shields.io/badge/Speakers-Edifier_S2000MKIII_RGB-FF8800?style=flat-square&logo=edifier)
 
 ---
 
-## 💻 Operating System & Creative Suite
-
-> Productivity meets protection.
+# 💻 Software Ecosystem
 
 ![OS](https://img.shields.io/badge/OS-Windows_11_Pro-0078D6?style=flat-square&logo=windows)
 ![Office](https://img.shields.io/badge/Productivity-Microsoft_Office_2021-FF6F00?style=flat-square&logo=microsoft-office)
-![Creative](https://img.shields.io/badge/Editing-Adobe_CC_+_Davinci_Resolve-800080?style=flat-square&logo=adobe)
-![AI Tools](https://img.shields.io/badge/AI_Engine-Oobabooga_+_ComfyUI_Local-FF7F50?style=flat-square&logo=openaigym)
-![Security](https://img.shields.io/badge/Protection-Bitdefender_Total_Security-CC0000?style=flat-square&logo=bitdefender)
+![Creative](https://img.shields.io/badge/Editing-Adobe_CC_+_DaVinci_Resolve_Studio-800080?style=flat-square&logo=adobe)
+![AI Tools](https://img.shields.io/badge/AI_Engine-Oobabooga_+_ComfyUI_Local-FF7F50?style=flat-square&logo=openai)
+![Security](https://img.shields.io/badge/Security-Bitdefender_Total_Security-CC0000?style=flat-square&logo=bitdefender)
 
 ---
 
-## 🛡️ Supporters & Reliability
+# ⚡ Power & Protection
 
-> Stability, airflow, and long-term performance.
-
-![UPS](https://img.shields.io/badge/UPS-APC_SRT3000XLI_3000VA_Online-FF0000?style=flat-square&logo=apc)
-![LAN](https://img.shields.io/badge/LAN-Belden_Cat6_10m-228B22?style=flat-square)
-![Cable](https://img.shields.io/badge/Cable-Vention_DP_1.4_8K-4682B4?style=flat-square)
-![Dust](https://img.shields.io/badge/Dust_Filter-Magnetic_Mesh-708090?style=flat-square)
-![Blower](https://img.shields.io/badge/Blower-X3Pro_Turbo_Jet-FF4500?style=flat-square)
-![Power Strip](https://img.shields.io/badge/Power_Strip-Baseus_Combo_30W-DAA520?style=flat-square)
+![UPS](https://img.shields.io/badge/UPS-CyberPower_CP1500PFCLCD_1500VA-FF0000?style=flat-square&logo=cyberpower)
+![Cabling](https://img.shields.io/badge/Cabling-Braided_Carbon_Sleeves-228B22?style=flat-square)
+![Dust](https://img.shields.io/badge/Dust_Filter-Magnetic_Mesh_Shields-708090?style=flat-square)
+![Blower](https://img.shields.io/badge/Dust_Blower-X3Pro_Turbo_Jet_Cleaner-FF4500?style=flat-square)
+![Power Strip](https://img.shields.io/badge/Power_Strip-RackMounted_EMI_Shielded-DAA520?style=flat-square)
 
 ---
 
-## 🪩 Command Bay & Atmosphere
+# 🪩 Command Bay & Atmosphere
 
-> A calm environment with creative control.
+![Chair](https://img.shields.io/badge/Chair-Herman_Miller_Embody_Gaming-8B4513?style=flat-square&logo=hermanmiller)
+![Desk](https://img.shields.io/badge/Desk-Secretlab_MAGNUS_Pro_XL-228B22?style=flat-square&logo=secretlab)
+![Lighting](https://img.shields.io/badge/Ambient-LuminaStar_Galaxy_Projection_+_ARGB_Sync-FFD700?style=flat-square)
 
-![Chair](https://img.shields.io/badge/Chair-Rexus_Dark_Thrones-8B4513?style=flat-square)
-![Desk](https://img.shields.io/badge/Desk-IKEA_Uppspel_Gaming_Desk-228B22?style=flat-square&logo=ikea)
+---
 
+> ⚙️ *Designed for silence, speed, and creativity.*  
+> 🧠 *Optimized for AI, simulation, and cinematic editing workflows.*
 ---
 
 <kbd>👾⚙️ Digital Ecosystem: The Ivan Protocol // Neo Core</kbd>  
