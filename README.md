@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Booting+TitanCore+v5090-X™...;🏆+Dual+GPU+Mode+Enabled+:+RTX+5090+%2B+4090.;🎯+Precision+Cooling+Engaged.;🖥️+Creative+Ops+Ready.;🧠+AI+Inference+Accelerated.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=🚀+Booting+TitanCore+v5090-X™...;🏆+Dual+GPU+Mode+Enabled+:+RTX+5090+%2B+4090.;🎯+Precision+Cooling+Engaged.;🖥️+Creative+Ops+Ready.;🧠+AI+Inference+Accelerated.">
 </p>
 
 ---
