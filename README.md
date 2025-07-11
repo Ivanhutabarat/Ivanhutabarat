@@ -214,12 +214,15 @@ Geophysics is my compass. Code is my language. Creativity is my fuel.
 
 ## 📊 GitHub Stats & Activity
 
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=cobalt)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=cobalt)  
-![Streak Stats](https://streak-stats.demolab.com?user=Ivanhutabarat&theme=dark&border_radius=5)  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivanhutabarat&theme=react-dark)  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=darkhub&row=2&column=3&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=radical" alt="Ivanhutabarat's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+ Views](https://komarev.com/ghpvc/?username=yourusername&color=red)  
+
 ---
 
 ##🔥🔥fatured Projects
