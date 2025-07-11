@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/RbhtAeL.png" width="850" alt="Ivan Hutabarat OS v5090-X™ Setup in White-Gold Bedroom" />
+  <img src="https://i.imgur.com/JMgEx7F.jpeg" width="850" alt="Ivan Hutabarat OS v5090-X™ Setup in White-Gold Bedroom" />
 </p>
 
 <h1 align="center">
