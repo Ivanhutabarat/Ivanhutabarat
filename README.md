@@ -15,6 +15,8 @@
   <img src="https://i.imgur.com/zjhWISL.jpeg" width="850" alt="Ivan Hutabarat OS v5090-X™ Setup in White-Gold Bedroom" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Booting+TitanCore+v5090-X™...;🏆+Dual+GPU+Mode+Enabled+:+RTX+5090+%2B+4090.;🎯+Precision+Cooling+Engaged.;🖥️+Creative+Ops+Ready.;🧠+AI+Inference+Accelerated.">
 </p>
