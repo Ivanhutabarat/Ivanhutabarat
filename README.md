@@ -221,7 +221,8 @@ Geophysics is my compass. Code is my language. Creativity is my fuel.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
- Views](https://komarev.com/ghpvc/?username=yourusername&color=red)  
+ 
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red) 
 
 ---
 
