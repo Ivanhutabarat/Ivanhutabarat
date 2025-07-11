@@ -31,7 +31,7 @@
 ![Motherboard](https://img.shields.io/badge/Motherboard-ASUS_ROG_X870E_Extreme-0052CC?style=flat-square&logo=asus)
 ![RAM](https://img.shields.io/badge/RAM-128GB_DDR5_6400MHz_RGB-8A2BE2?style=flat-square&logo=corsair)
 ![Storage](https://img.shields.io/badge/Storage-2TB_NVMe_Gen5_+_4TB_SATA_SSD-0ABFBC?style=flat-square&logo=samsung)
-![Case](https://img.shields.io/badge/Case-Corsair_1000D_Super_Tower_RGB-1B1F23?style=flat-square&logo=corsair)
+![Case](https://img.shields.io/badge/Case-Corsair_9000D_Super_Tower_RGB-1B1F23?style=flat-square&logo=corsair)
 ![Cooling](https://img.shields.io/badge/Cooling-ROG_Ryujin_III_360_ARGB_LCD-FF003C?style=flat-square&logo=asus)
 ![PSU](https://img.shields.io/badge/PSU-MSI_MEGAi1600T_ATX_3.1_Platinum-FF6600?style=flat-square&logo=msi)
 
