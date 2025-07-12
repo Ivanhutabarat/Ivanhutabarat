@@ -23,6 +23,12 @@
 
 ---
 
+# 🚀 TitanCore Chamber v2 (2025)
+
+A cinematic machine forged for AI, simulation, and artistic workflows — where power meets identity. With dual flagship GPUs, precision cooling through hardline acrylic tubing, and a storage array exceeding 70TB, TitanCore is more than a system: it’s a sanctuary of speed, silence, and soul.
+
+---
+
 ## 🧩 Core Hardware
 
 ![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9950X3D-ED1C24?style=flat-square&logo=amd)
@@ -30,43 +36,45 @@
 ![GPU 2](https://img.shields.io/badge/GPU_2-ASUS_ROG_RTX_4090_OC-00FFD1?style=flat-square&logo=nvidia)
 ![Motherboard](https://img.shields.io/badge/Motherboard-ASUS_ROG_X870E_Extreme-0052CC?style=flat-square&logo=asus)
 ![RAM](https://img.shields.io/badge/RAM-256GB_DDR5_6000MHz_RGB-8A2BE2?style=flat-square&logo=kingston)
-![NVMe](https://img.shields.io/badge/NVMe_Storage-14TB_Active_+_4_Slot_Expansion-0ABFBC?style=flat-square&logo=samsung)
-![SATA](https://img.shields.io/badge/SATA_Storage-56TB_(7x_8TB_QVO)-708090?style=flat-square&logo=samsung)
+![Storage](https://img.shields.io/badge/Storage-14TB_NVMe_%2B_56TB_SATA_SSD-0ABFBC?style=flat-square&logo=samsung)
 ![Expansion](https://img.shields.io/badge/NVMe_Card-ASUS_Hyper_M.2_x16_V2-FF6F00?style=flat-square&logo=asus)
 ![Case](https://img.shields.io/badge/Case-Corsair_9000D_Super_Tower_RGB-1B1F23?style=flat-square&logo=corsair)
+![Cooling](https://img.shields.io/badge/Cooling-ROG_Ryujin_III_%2B_Corsair_XD5_Combo-FF003C?style=flat-square&logo=asus)
 ![PSU](https://img.shields.io/badge/PSU-Super_Flower_Leadex_2000W_ATX_3.1-FFD700?style=flat-square&logo=supermicro)
 
 ---
 
-## ❄️ Cooling & Airflow Matrix
+## ❄️ Cooling & Airflow
 
-![CPU Cooler](https://img.shields.io/badge/CPU_Cooler-ROG_Ryujin_III_360_ARGB_LCD-FF003C?style=flat-square&logo=asus)
 ![Radiators](https://img.shields.io/badge/Radiators-Dual_480mm_Custom_Loop-4682B4?style=flat-square&logo=custom)
-![Pump](https://img.shields.io/badge/Pump-XS_Hydro_X_XD5_RGB_Reservoir_Combo-00BFFF?style=flat-square&logo=corsair)
-![Tubing](https://img.shields.io/badge/Tubing-Hardline_Clear_Acrylic_Estetik-DA70D6?style=flat-square&logo=custom)
+![Pump](https://img.shields.io/badge/Pump-Corsair_XD5_RGB_Reservoir_Combo-00BFFF?style=flat-square&logo=corsair)
+![Tubing](https://img.shields.io/badge/Tubing-Hardline_Clear_Acrylic-DA70D6?style=flat-square&logo=custom)
 ![Fans](https://img.shields.io/badge/Fans-20x_Noctua_%2B_Lian_Li_ARGB-964B00?style=flat-square&logo=noctua)
-![Fan_Controller](https://img.shields.io/badge/Fan_Controller-iCUE_Commander_Pro_XT-1E90FF?style=flat-square&logo=corsair)
-![Thermals](https://img.shields.io/badge/Thermal_Sensor-Digital_%2B_Analog_AI_Curve-4169E1?style=flat-square&logo=raspberrypi)
-![Flow_Meter](https://img.shields.io/badge/Coolant_Monitor-Fusion_Flow_Gauge-FF00FF?style=flat-square&logo=custom)
+![Controller](https://img.shields.io/badge/Fan_Controller-iCUE_Commander_Pro_XT-1E90FF?style=flat-square&logo=corsair)
+![Thermals](https://img.shields.io/badge/Thermals-Digital_%2B_Analog_AI_Curve-4169E1?style=flat-square&logo=raspberrypi)
+![Flow Meter](https://img.shields.io/badge/Coolant_Monitor-Fusion_Flow_Gauge_RGB-FF00FF?style=flat-square&logo=custom)
 
 ---
 
-## 🖥️ Display & Atmosphere
+## 🖥️ Display & Peripherals
 
-![Monitor](https://img.shields.io/badge/Monitor-ASUS_PG32UQX_4K_144Hz_MiniLED-FF3366?style=flat-square&logo=asus)
-![Mousepad](https://img.shields.io/badge/Mousepad-XL_ARGB_Surface_Gradient_Sync-FF69B4?style=flat-square)
-![Lighting](https://img.shields.io/badge/Lighting-Cyan_Magenta_RGB_%2B_Galaxy_Projection-FFD700?style=flat-square)
-
----
-
-## 🎮 Peripherals & Audio
-
-![Keyboard](https://img.shields.io/badge/Keyboard-Corsair_RGB_Mechanical-FF0066?style=flat-square&logo=corsair)
+![Monitor](https://img.shields.io/badge/Monitor-ASUS_PG32UQX_4K_144Hz_HDR-FF3366?style=flat-square&logo=asus)
+![Keyboard](https://img.shields.io/badge/Keyboard-GMMK_Pro_Custom_RGB-00BFFF?style=flat-square&logo=glorious)
 ![Mouse](https://img.shields.io/badge/Mouse-Logitech_G_Pro_X_Superlight_2-000000?style=flat-square&logo=logitech)
-![Headset](https://img.shields.io/badge/Headset-Sennheiser_HD660S2_%2B_DAC%2FAMP-00FF00?style=flat-square&logo=sennheiser)
-![Mic](https://img.shields.io/badge/Microphone-Shure_MV7X_XLR-800000?style=flat-square&logo=shure)
-![Speakers](https://img.shields.io/badge/Speakers-Edifier_S2000MKIII_RGB_Studio-FF8800?style=flat-square&logo=edifier)
+![Mousepad](https://img.shields.io/badge/Mousepad-XL_ARGB_Gradient_Surface-FF69B4?style=flat-square)
 ![Webcam](https://img.shields.io/badge/Webcam-Elgato_Facecam_Pro_4K_HDR-6666FF?style=flat-square&logo=elgato)
+![Headset](https://img.shields.io/badge/Headset-Sennheiser_HD660S2_%2B_DAC-00FF00?style=flat-square&logo=sennheiser)
+![Speakers](https://img.shields.io/badge/Speakers-Edifier_S2000MKIII_RGB_Studio-FF8800?style=flat-square&logo=edifier)
+
+---
+
+## 💻 Software Ecosystem
+
+![OS](https://img.shields.io/badge/OS-Windows_11_Pro_64bit-0078D6?style=flat-square&logo=windows)
+![Office](https://img.shields.io/badge/Productivity-Microsoft_Office_2021-FF6F00?style=flat-square&logo=microsoft-office)
+![Creative](https://img.shields.io/badge/Editing-Adobe_CC_%2B_DaVinci_Resolve_Studio-800080?style=flat-square&logo=adobe)
+![AI Tools](https://img.shields.io/badge/AI_Engine-Oobabooga_%2B_ComfyUI_Local-FF7F50?style=flat-square&logo=openai)
+![Security](https://img.shields.io/badge/Security-Bitdefender_Total_Security_2025-CC0000?style=flat-square&logo=bitdefender)
 
 ---
 
@@ -74,31 +82,25 @@
 
 ![UPS](https://img.shields.io/badge/UPS-CyberPower_CP1500PFCLCD_1500VA-FF0000?style=flat-square&logo=cyberpower)
 ![Cabling](https://img.shields.io/badge/Cabling-Braided_Carbon_Sleeving_Modular-228B22?style=flat-square)
-![Dust](https://img.shields.io/badge/Dust_Filter-Mesh_Shields_%2B_Ring_Guards-708090?style=flat-square)
-![Power_Strip](https://img.shields.io/badge/Power_Strip-RackMounted_EMI_Shielded-DAA520?style=flat-square)
+![Dust Filter](https://img.shields.io/badge/Dust_Filter-Magnetic_Mesh_%2B_Ring_Guards-708090?style=flat-square)
+![Blower](https://img.shields.io/badge/Dust_Blower-X3Pro_Turbo_Jet_Cleaner-FF4500?style=flat-square)
+![Power Strip](https://img.shields.io/badge/Power_Strip-RackMounted_EMI_Shielded-DAA520?style=flat-square)
 
 ---
 
-## 🪩 Furniture & Command Bay
+## 🪩 Command Bay & Ambient Profiles
 
+![Chair](https://img.shields.io/badge/Chair-Rexus_Dark_Thrones_Ergonomic_Black-8B4513?style=flat-square)
 ![Desk](https://img.shields.io/badge/Desk-Secretlab_MAGNUS_Pro_XL-228B22?style=flat-square&logo=secretlab)
-![Chair](https://img.shields.io/badge/Chair-Rexus_Dark_Thrones_Black_Ergonomic-8B4513?style=flat-square)
-![Display_Cabinet](https://img.shields.io/badge/Display-HotWheels_Collectibles_Glass_Cabinet-B0C4DE?style=flat-square)
-
----
-
-## 🌌 Software Ecosystem
-
-![RGB_Profile](https://img.shields.io/badge/RGB_Profiles-ZenMode_%7C_TitanAwaken_%7C_Starfield_Drift-9370DB?style=flat-square)
+![Profiles](https://img.shields.io/badge/RGB_Profiles-ZenMode_%2C_TitanAwaken_%2C_Starfield_Drift-9370DB?style=flat-square)
 ![Startup](https://img.shields.io/badge/Startup_Sequence-Silent_Boot_%2B_Galaxy_Soundscape-F08080?style=flat-square)
-![Monitoring](https://img.shields.io/badge/Monitoring-HWInfo64_%2B_ArmouryCrate_%2B_OLED-00008B?style=flat-square)
-![Ambient](https://img.shields.io/badge/Ambient_Logic-Time_%2F_Load_%2F_Temperature_Sync-20B2AA?style=flat-square)
 
 ---
 
-> 🧠 Total Storage: **14TB NVMe aktif + 56TB SATA SSD + 4 Slot NVMe ekspansi**  
-> 🔧 Sistem pendingin visual: **Hardline Tubing + XD5 RGB Reservoir + Galaxy Theme Flow**  
-
+> 🧠 **Total Storage:** 14TB NVMe + 56TB SATA + 4-slot expansion (Max capacity: 128TB+)  
+> ❄️ **Cooling:** Dual radiator, XD5 RGB pump, acrylic tubing, flow monitoring  
+> 🛡️ **Use Cases:** AI Training · 12K Editing · Game Dev · Dataset Modeling · Virtualization · Prompt Crafting  
+> 🎨 **Crafted by:** @Ivanhutabarat · System Identity: TitanCore Chamber v2™ · Boot Ready.
 
 ---
 
