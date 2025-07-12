@@ -85,7 +85,6 @@
 ![Desk](https://img.shields.io/badge/Desk-Secretlab_MAGNUS_Pro_XL-228B22?style=flat-square&logo=secretlab)
 ![Chair](https://img.shields.io/badge/Chair-Rexus_Dark_Thrones_Black_Ergonomic-8B4513?style=flat-square)
 ![Display_Cabinet](https://img.shields.io/badge/Display-HotWheels_Collectibles_Glass_Cabinet-B0C4DE?style=flat-square)
-![Room](https://img.shields.io/badge/Room-WalkIn_Closet_%2B_Private_Bathroom-20B2AA?style=flat-square)
 
 ---
 
@@ -100,8 +99,7 @@
 
 > 🧠 Total Storage: **14TB NVMe aktif + 56TB SATA SSD + 4 Slot NVMe ekspansi**  
 > 🔧 Sistem pendingin visual: **Hardline Tubing + XD5 RGB Reservoir + Galaxy Theme Flow**  
-> 🌌 Chamber Layout: **Minimalis sinematik, lantai granit emas, ambience tenang dan imersif**  
-> 🛡️ Siap
+
 
 ---
 
