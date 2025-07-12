@@ -56,7 +56,6 @@
 ![Monitor](https://img.shields.io/badge/Monitor-ASUS_PG32UQX_4K_144Hz_MiniLED-FF3366?style=flat-square&logo=asus)
 ![Mousepad](https://img.shields.io/badge/Mousepad-XL_ARGB_Surface_Gradient_Sync-FF69B4?style=flat-square)
 ![Lighting](https://img.shields.io/badge/Lighting-Cyan_Magenta_RGB_%2B_Galaxy_Projection-FFD700?style=flat-square)
-![Floor](https://img.shields.io/badge/Floor-White_Granite_%2B_Gold_Veins-AAAAAA?style=flat-square)
 
 ---
 
