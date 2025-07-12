@@ -39,7 +39,8 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ![Storage](https://img.shields.io/badge/Storage-14TB_NVMe_%2B_56TB_SATA_SSD-0ABFBC?style=flat-square&logo=samsung)
 ![Expansion](https://img.shields.io/badge/NVMe_Card-ASUS_Hyper_M.2_x16_V2-FF6F00?style=flat-square&logo=asus)
 ![Case](https://img.shields.io/badge/Case-Corsair_9000D_Super_Tower_RGB-1B1F23?style=flat-square&logo=corsair)
-![Cooling](https://img.shields.io/badge/Cooling-ROG_Ryujin_III_%2B_Corsair_XD5_Combo-FF003C?style=flat-square&logo=asus)
+![CPU Cooler](https://img.shields.io/badge/CPU_Cooler-ROG_Ryujin_III_360_ARGB_LCD-FF003C?style=flat-square&logo=asus)
+![Pump_Reservoir](https://img.shields.io/badge/Reservoir-Corsair_XD5_RGB_Pump_Combo-00BFFF?style=flat-square&logo=corsair)
 ![PSU](https://img.shields.io/badge/PSU-Super_Flower_Leadex_2000W_ATX_3.1-FFD700?style=flat-square&logo=supermicro)
 
 ---
