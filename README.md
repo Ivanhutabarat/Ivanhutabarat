@@ -26,7 +26,7 @@
 # 🧩 Core Hardware
 
 ![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9950X3D-ED1C24?style=flat-square&logo=amd)
-![GPU 1](https://img.shields.io/badge/GPU_1-RTX_5090_Founders_Edition-76B900?style=flat-square&logo=nvidia)
+![GPU 1](https://img.shields.io/badge/GPU_1-ASUS_ROG_RTX_5090_OC-76B900?style=flat-square&logo=nvidia)
 ![GPU 2](https://img.shields.io/badge/GPU_2-RTX_4090_Strix_OC-00FFD1?style=flat-square&logo=nvidia)
 ![Motherboard](https://img.shields.io/badge/Motherboard-ASUS_ROG_X870E_Extreme-0052CC?style=flat-square&logo=asus)
 ![RAM](https://img.shields.io/badge/RAM-128GB_DDR5_6400MHz_RGB-8A2BE2?style=flat-square&logo=corsair)
