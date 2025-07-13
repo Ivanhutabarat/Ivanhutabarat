@@ -47,13 +47,14 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ## ❄️ Cooling & Airflow
 
-![Radiators](https://img.shields.io/badge/Radiators-Dual_480mm_Custom_Loop-4682B4?style=flat-square&logo=custom)
-![Pump](https://img.shields.io/badge/Pump-Corsair_XD5_RGB_Reservoir_Combo-00BFFF?style=flat-square&logo=corsair)
-![Tubing](https://img.shields.io/badge/Tubing-Hardline_Clear_Acrylic-DA70D6?style=flat-square&logo=custom)
-![Fans](https://img.shields.io/badge/Fans-20x_Noctua_%2B_Lian_Li_ARGB-964B00?style=flat-square&logo=noctua)
-![Controller](https://img.shields.io/badge/Fan_Controller-iCUE_Commander_Pro_XT-1E90FF?style=flat-square&logo=corsair)
-![Thermals](https://img.shields.io/badge/Thermals-Digital_%2B_Analog_AI_Curve-4169E1?style=flat-square&logo=raspberrypi)
-![Flow Meter](https://img.shields.io/badge/Coolant_Monitor-Fusion_Flow_Gauge_RGB-FF00FF?style=flat-square&logo=custom)
+![Pump_Reservoir](https://img.shields.io/badge/Pump_Reservoir-Corsair_XD5_RGB_HydroX-00BFFF?style=flat-square&logo=corsair)
+![Radiators](https://img.shields.io/badge/Radiators-Corsair_XR5_Series_480mm_Top%2FSide-4682B4?style=flat-square&logo=corsair)
+![Tubing](https://img.shields.io/badge/Tubing-Corsair_Hardline_Acrylic_Clear-DA70D6?style=flat-square&logo=corsair)
+![Coolant](https://img.shields.io/badge/Coolant-Corsair_XL8_Performance_Red%2FPurple-BC13FE?style=flat-square&logo=corsair)
+![Flow Monitor](https://img.shields.io/badge/Flow_Gauge-RGB_Corsair_Fusion_Display-FF00FF?style=flat-square&logo=corsair)
+![Fan Control](https://img.shields.io/badge/Fan_Controller-iCUE_Commander_Pro_XT-1E90FF?style=flat-square&logo=corsair)
+![Monitoring](https://img.shields.io/badge/Monitoring-Full_Corsair_iCUE_Suite-20B2AA?style=flat-square&logo=corsair)
+![Hose Sleeving](https://img.shields.io/badge/Radiator_Hose_Cover-CableMod_Pro_ModMesh_Red_Carbon-DC143C?style=flat-square&logo=cablemod)
 
 ---
 
