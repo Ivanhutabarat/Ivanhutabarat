@@ -69,6 +69,13 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ![Speakers](https://img.shields.io/badge/Speakers-Edifier_S2000MKIII_RGB_Studio-FF8800?style=flat-square&logo=edifier)
 
 ---
+![TV Display](https://img.shields.io/badge/TV-Samsung_QN900D_8K_MiniLED-0088CC?style=flat-square&logo=samsung)
+![Projector](https://img.shields.io/badge/Projector-Sony_VPL_XW7000ES_4K_HDR_Laser-000000?style=flat-square&logo=sony)
+![Visual Sync](https://img.shields.io/badge/Display_Mode-TitanAwaken_%2F_Starfield_Drift-9370DB?style=flat-square&logo=custom)
+![Content Support](https://img.shields.io/badge/Media_Support-12K_Playback_%2B_HDR10%2B_Atmos-F08080?style=flat-square&logo=dolby)
+![Boot Projection](https://img.shields.io/badge/Startup_Splash-Galactic_Crest_%2F_Visual_Burst-E9967A?style=flat-square&logo=custom)
+
+---
 
 ## 💻 Software Ecosystem
 
