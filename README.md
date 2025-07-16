@@ -175,7 +175,7 @@ _// Initializing system..._
 I code not just to build, but to understand.  
 To connect logic with the earth beneath us.  
 To turn raw data into stories, and silence into signals.  
-Geophysics is my compass. Code is my language. Creativity is my fuel.
+Imagination is my compass. Code is my language. Creativity is my fuel.
 
 ---
 
