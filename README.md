@@ -227,10 +227,10 @@ Imagination is my compass. Code is my language. Creativity is my fuel.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
  
- [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red) 
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=radical)](https://github.com/Ivanhutabarat)
-
+ 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy) )  
 ---
 
 ##🔥🔥fatured Projects
