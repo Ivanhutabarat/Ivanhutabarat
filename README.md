@@ -163,20 +163,6 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ---
 
-🧠 SYSTEM LOG :: `IP4N-HUB`  
-🔧 STATUS :: `Online`  
-🛠️ MODULES LOADED :: `Code | Game | Stream`  
-📡 SIGNAL STRENGTH :: `∞`  
-🎮 PROFILE SYNCED :: `Visual Protocol Ready`
-
-_// Initializing system..._  
-`Loading Ipan Protocol... ✅`  
-`Injecting caffeine... ⚡`  
-`Running GitOps Cinematic Shell... 🌀`  
-`Status: ENGAGED.` 🟢
-
----
-
 ## 🧠 Use Case
 
 - 🎮 4K Ultra Gaming (Warzone, Cyberpunk, Starfield)
