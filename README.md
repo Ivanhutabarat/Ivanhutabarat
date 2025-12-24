@@ -5,8 +5,7 @@
 
 ---
 
-
-## 🔥 Typing Animation  
+  
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=24&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ivan+Hutabarat!;19+years+old+Tech+Enthusiast;Started+Programming+at+13;Geophysics+Student;WhatsApp+Bot+Developer;Always+Learning!)
 
 ---
@@ -47,15 +46,16 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9950X3D-ED1C24?style=flat-square&logo=amd)
 ![GPU 1](https://img.shields.io/badge/GPU_1-ASUS_ROG_RTX_5090_OC-76B900?style=flat-square&logo=nvidia)
-![GPU 2](https://img.shields.io/badge/GPU_2-ASUS_ROG_RTX_4090_OC-00FFD1?style=flat-square&logo=nvidia)
+![GPU 2](https://img.shields.io/badge/GPU_2-ASUS_ROG_Strix_RTX_5090-76B900?style=flat-square&logo=nvidia)
 ![Motherboard](https://img.shields.io/badge/Motherboard-ASUS_ROG_X870E_Extreme-0052CC?style=flat-square&logo=asus)
 ![RAM](https://img.shields.io/badge/RAM-256GB_DDR5_6000MHz_RGB-8A2BE2?style=flat-square&logo=kingston)
 ![Storage](https://img.shields.io/badge/Storage-14TB_NVMe_%2B_56TB_SATA_SSD-0ABFBC?style=flat-square&logo=samsung)
 ![Expansion](https://img.shields.io/badge/NVMe_Card-ASUS_Hyper_M.2_x16_V2-FF6F00?style=flat-square&logo=asus)
 ![Case](https://img.shields.io/badge/Case-Corsair_9000D_Super_Tower_RGB-1B1F23?style=flat-square&logo=corsair)
-![CPU Cooler](https://img.shields.io/badge/CPU_Cooler-ROG_Ryujin_III_360_ARGB_LCD-FF003C?style=flat-square&logo=asus)
+![CPU Cooler](https://img.shields.io/badge/CPU_Cooler-ROG_Ryujin_IV_SLC_360_ARGB-FF003C?style=flat-square&logo=asus)
 ![Pump_Reservoir](https://img.shields.io/badge/Reservoir-Corsair_XD5_RGB_Pump_Combo-00BFFF?style=flat-square&logo=corsair)
 ![PSU](https://img.shields.io/badge/PSU-Super_Flower_Leadex_2000W_ATX_3.1-FFD700?style=flat-square&logo=supermicro)
+
 
 ---
 
@@ -74,7 +74,7 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ## 🖥️ Display & Peripherals
 
-![Monitor](https://img.shields.io/badge/Monitor-ASUS_PG32UQX_4K_144Hz_HDR-FF3366?style=flat-square&logo=asus)
+![Monitor](https://img.shields.io/badge/Monitor-Alienware_32_4K_QD--OLED_(AW3225QF)-000000?style=flat-square&logo=dell)
 ![Keyboard](https://img.shields.io/badge/Keyboard-GMMK_Pro_Custom_RGB-00BFFF?style=flat-square&logo=glorious)
 ![Mouse](https://img.shields.io/badge/Mouse-Logitech_G_Pro_X_Superlight_2-000000?style=flat-square&logo=logitech)
 ![Mousepad](https://img.shields.io/badge/Mousepad-XL_ARGB_Gradient_Surface-FF69B4?style=flat-square)
@@ -82,9 +82,9 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ![Headset](https://img.shields.io/badge/Headset-Sennheiser_HD660S2_%2B_DAC-00FF00?style=flat-square&logo=sennheiser)
 ![Speakers](https://img.shields.io/badge/Speakers-Edifier_S2000MKIII_RGB_Studio-FF8800?style=flat-square&logo=edifier)
 
+
 ---
-![TV Display](https://img.shields.io/badge/TV-Samsung_QN900D_8K_MiniLED-0088CC?style=flat-square&logo=samsung)
-![Projector](https://img.shields.io/badge/Projector-Sony_VPL_XW7000ES_4K_HDR_Laser-000000?style=flat-square&logo=sony)
+
 ![Visual Sync](https://img.shields.io/badge/Display_Mode-TitanAwaken_%2F_Starfield_Drift-9370DB?style=flat-square&logo=custom)
 ![Content Support](https://img.shields.io/badge/Media_Support-12K_Playback_%2B_HDR10%2B_Atmos-F08080?style=flat-square&logo=dolby)
 ![Boot Projection](https://img.shields.io/badge/Startup_Splash-Galactic_Crest_%2F_Visual_Burst-E9967A?style=flat-square&logo=custom)
