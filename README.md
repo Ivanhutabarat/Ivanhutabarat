@@ -214,16 +214,20 @@ Imagination is my compass. Code is my language. Creativity is my fuel.
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=radical" alt="Ivanhutabarat's GitHub Stats"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=radical&no-frame=true&margin-w=15" alt="Ivanhutabarat Trophies"/>
+  </a>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=radical&count_private=true" alt="Ivanhutabarat's GitHub Stats"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
- 
- [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=radical)](https://github.com/Ivanhutabarat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ivanhutabarat&color=red&style=flat-square" alt="Profile Views"/>
+</p>
 
 
 ---
