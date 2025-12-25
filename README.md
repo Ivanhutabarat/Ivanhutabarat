@@ -58,6 +58,34 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 
 ---
+## 🧠 System Memory (RAM)
+
+> **Total Memory:** 256GB DDR5 (Quad-Channel Configuration)
+
+![RAM Kit](https://img.shields.io/badge/Brand-Kingston_Fury_Beast_RGB-ED1C24?style=flat-square&logo=kingston)
+![RAM Capacity](https://img.shields.io/badge/Capacity-256GB_(4x64GB)-000000?style=flat-square&logo=ram)
+![RAM Speed](https://img.shields.io/badge/Speed-6000MT%2Fs_CL30-FF0000?style=flat-square&logo=amd)
+![Technology](https://img.shields.io/badge/Tech-AMD_EXPO_Certified-76B900?style=flat-square&logo=amd)
+
+---
+
+## 💾 Storage Architecture
+
+**⚡ NVMe Gen5 & Gen4 Array (Operating System & Hot Data)**
+![Gen5 Primary](https://img.shields.io/badge/NVMe_Gen5-2x_TeamGroup_T--FORCE_GE_PRO_4TB-FF4500?style=flat-square)
+![Gen4 Secondary](https://img.shields.io/badge/NVMe_Gen4-1x_Samsung_990_PRO_4TB-0052CC?style=flat-square&logo=samsung)
+![Gen4 Scratch](https://img.shields.io/badge/NVMe_Gen4-2x_Crucial_T500_4TB-000000?style=flat-square&logo=crucial)
+![Expansion](https://img.shields.io/badge/Expansion_Card-ASUS_Hyper_M.2_x16_Gen5-000000?style=flat-square&logo=asus)
+
+**📦 Mass Storage (Cold Data & Datasets)**
+![SATA SSD](https://img.shields.io/badge/SATA_SSD-7x_Samsung_870_QVO_8TB-0ABFBC?style=flat-square&logo=samsung)
+
+> **📊 Storage Summary:**
+> * **Speed Tier (NVMe):** 16TB Total (Read Speed up to 14.000 MB/s)
+> * **Capacity Tier (SATA):** 56TB Total
+> * **Total Chamber Capacity:** ~72TB Active (Expandable to 128TB+)
+
+---
 
 ## ❄️ Cooling & Airflow
 
