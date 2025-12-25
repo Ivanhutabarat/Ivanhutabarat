@@ -104,7 +104,10 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ## ⚡ Power & Cabling
 
 ![UPS](https://img.shields.io/badge/UPS-CyberPower_CP1500PFCLCD_1500VA-FF0000?style=flat-square&logo=cyberpower)
+![Battery Pack](https://img.shields.io/badge/Battery_Pack-APC_SRT192BP2_Extended_Runtime-brightgreen?style=flat-square&logo=schneiderelectric)
 ![Cabling](https://img.shields.io/badge/Cabling-Braided_Carbon_Sleeving_Modular-228B22?style=flat-square)
+![Cable Management](https://img.shields.io/badge/Cable_Management-Magnetic_Hide_System-808080?style=flat-square)
+
 ![Dust Filter](https://img.shields.io/badge/Dust_Filter-Magnetic_Mesh_%2B_Ring_Guards-708090?style=flat-square)
 ![Blower](https://img.shields.io/badge/Dust_Blower-X3Pro_Turbo_Jet_Cleaner-FF4500?style=flat-square)
 ![Power Strip](https://img.shields.io/badge/Power_Strip-RackMounted_EMI_Shielded-DAA520?style=flat-square)
