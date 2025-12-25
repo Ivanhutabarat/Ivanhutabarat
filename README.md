@@ -213,11 +213,11 @@ Imagination is my compass. Code is my language. Creativity is my fuel.
 
 ## 📊 GitHub Stats & Activity
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=radical&no-frame=true)](https://github.com/Ivanhutabarat)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=radical&no-frame=true)
 
-[![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=radical)](https://github.com/Ivanhutabarat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical)](https://github.com/Ivanhutabarat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red) 
 
