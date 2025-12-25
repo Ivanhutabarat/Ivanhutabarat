@@ -103,65 +103,73 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ## 🌪️ TITANCORE AERO-SYSTEMS (43 Active Units)
 
 > **"Silence is luxury. Performance is mandatory."**
-> Konfigurasi aliran udara tekanan positif ekstrem (Extreme Positive Pressure) di dalam chassis Corsair 9000D. Dirancang untuk menjinakkan total output panas (TDP) >1500W dari Dual RTX 5090 & Ryzen 9 9950X3D.
-
-### 📊 Performance Metrics
-| Metric | Value | Notes |
-| :--- | :--- | :--- |
-| **Total Airflow** | > 1200 CFM | Setara pendingin industri server |
-| **Static Pressure** | 7.63 mm H₂O | Menembus radiator tebal dengan mudah |
-| **Cooling Efficiency** | **+35% vs Standard** | Berkat konfigurasi Sandwich Push-Pull-Pull |
-| **Noise Level (Idle)** | 22-25 dB(A) | Hampir tidak terdengar (Whisper Quiet) |
-| **Noise Level (Load)** | 45-52 dB(A) | Suara angin kencang (Low-Hum), bukan suara motor |
+> A custom-engineered "Extreme Positive Pressure" airflow ecosystem within the **Corsair 9000D Super Tower**. Designed to tame the >1500W thermal output of Dual RTX 5090s & Ryzen 9 9950X3D.
 
 ---
 
-### 1. ❄️ The GPU Cooling Engine (Top Chamber)
-**Target:** Dual ASUS ROG Strix RTX 5090 OC (2x 600W TDP)
-* **Radiator:** Corsair XR7 480mm (Ketebalan 54mm)
-* **Konfigurasi:** **Push-Pull-Pull (Tri-Layer Sandwich)**
-* **Fan Model:** 12x Noctua NF-A14 industrialPPC-3000 PWM
-* **Lokasi:** Roof Mount (Bagian Atas Casing)
+### 📊 Aero-Acoustic Performance Metrics
 
-> **💡 Mengapa Push-Pull-Pull?**
-> Radiator tebal membutuhkan tekanan statis tinggi. Dengan 3 lapisan kipas (4 dorong, 4 tarik tengah, 4 tarik luar), udara dipaksa melewati sirip radiator tanpa hambatan. Efisiensi pembuangan panas meningkat **30-40%** dibanding konfigurasi kipas standar.
+| Metric | Rating | Description |
+| :--- | :--- | :--- |
+| **Airflow Volume** | ![1200 CFM](https://img.shields.io/badge/Airflow->1200_CFM-00BFFF?style=flat-square&logo=wind) | Industrial-grade air displacement. |
+| **Static Pressure** | ![7.63mmH2O](https://img.shields.io/badge/Pressure-7.63_mmH₂O-FF4500?style=flat-square) | High-penetration force for thick radiators. |
+| **Efficiency** | ![+35%](https://img.shields.io/badge/Efficiency-+35%25_Push--Pull-32CD32?style=flat-square) | Thermal dissipation gain vs. standard setup. |
+| **Acoustics (Idle)** | ![25dB](https://img.shields.io/badge/Noise_Idle-25_dB(A)-brightgreen?style=flat-square&logo=quiet) | Whisper quiet (0 RPM Mode Active). |
+| **Acoustics (Load)** | ![52dB](https://img.shields.io/badge/Noise_Load-52_dB(A)-orange?style=flat-square&logo=soundcharts) | Audible airflow (Low-Hum), motor noise dampened. |
 
-### 2. 🔥 The CPU Thermal Exhaust (Side Chamber)
-**Target:** AMD Ryzen 9 9950X3D
-* **Cooler:** ASUS ROG Ryujin IV SLC 360 ARGB
-* **Fan Model:** 3x Noctua NF-F12 industrialPPC-2000 PWM (Ganti Stock Fan)
-* **Lokasi:** Side Mount (Sisi Kanan Casing)
-* **Arah:** Exhaust (Membuang panas langsung ke belakang motherboard tray)
+---
 
-### 3. 🌬️ Massive Intake Array (Fresh Air Supply)
-**Tujuan:** Memberikan suplai udara dingin tanpa henti untuk komponen internal.
+### 1. ❄️ GPU Cooling Engine (Top Chamber)
+*Targeting the combined thermal load of **Dual ASUS ROG Strix RTX 5090** via the top custom loop.*
 
-**A. Front Intake Wall (Tembok Udara Depan)**
-* **Jumlah:** 16 Unit (8 Luar + 8 Dalam - Push/Pull)
-* **Model:** Lian Li UNI FAN SL-INF 140 RGB
-* **Lokasi:** Panel Depan Corsair 9000D
-* **Fungsi:** Menciptakan lorong angin deras yang menjangkau ujung belakang casing. Mendinginkan RAM, VRM, dan SSD secara pasif.
+![Radiator Fans](https://img.shields.io/badge/Unit-12x_Noctua_NF--A14_iPPC_3000-000000?style=flat-square&logo=noctua&logoColor=white)
+![Config](https://img.shields.io/badge/Config-Tri--Layer_Push--Pull--Pull-FF0000?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Top_Mount_420mm-808080?style=flat-square)
 
-**B. Bottom Intake Jet (Pendingin GPU Langsung)**
-* **Jumlah:** 8 Unit (4 Bawah + 4 Atas Bracket - Push/Pull)
-* **Model:** Phanteks T30-120 (Kipas 30mm tebal untuk tekanan tinggi)
-* **Lokasi:** Lantai Bawah Casing
-* **Fungsi:** Menembakkan udara dingin vertikal langsung ke *intake* kartu grafis RTX 5090 paling bawah. Mengurangi suhu GPU hingga **5-8°C**.
+* **The Logic:** Utilizing a "Sandwich" configuration on the thick Corsair XR7 radiator.
+* **Performance:** The tri-layer setup ensures zero airflow resistance, instantly ejecting 1000W+ of heat from the chassis.
+
+### 2. 🔥 CPU Thermal Exhaust (Side Chamber)
+*Dedicated cooling for the **AMD Ryzen 9 9950X3D**.*
+
+![AIO Fans](https://img.shields.io/badge/Unit-3x_Noctua_NF--F12_iPPC_2000-000000?style=flat-square&logo=noctua&logoColor=white)
+![Cooler](https://img.shields.io/badge/Cooler-ROG_Ryujin_IV_SLC_360-FF003C?style=flat-square&logo=asus)
+![Location](https://img.shields.io/badge/Location-Side_Exhaust-808080?style=flat-square)
+
+* **The Logic:** Independent loop. CPU heat is vented out the side, preventing it from soaking the GPU radiator above.
+
+---
+
+### 3. 🌬️ Massive Intake Array (The Wind Tunnel)
+
+#### 🔵 Front Intake Wall
+*Primary cold air supply.*
+![Front Fans](https://img.shields.io/badge/Unit-16x_Lian_Li_SL--INF_140-00BFFF?style=flat-square&logo=lianli)
+![Config](https://img.shields.io/badge/Config-Push--Pull_Wall-00008B?style=flat-square)
+
+* **Placement:** 8 fans external + 8 fans internal.
+* **Effect:** Creates a massive wall of moving air that reaches the motherboard VRMs and RAM, eliminating dead zones.
+
+#### 🔵 Bottom Intake Jet
+*Direct feed for Dual RTX 5090s.*
+![Bottom Fans](https://img.shields.io/badge/Unit-8x_Phanteks_T30_120mm-555555?style=flat-square&logo=phanteks&logoColor=white)
+![Performance](https://img.shields.io/badge/Spec-30mm_Thick_Blades-FFD700?style=flat-square)
+
+* **Placement:** Bottom floor of the Corsair 9000D.
+* **Effect:** Shoots a vertical column of cold air directly into the GPU intakes, dropping GPU temperatures by approx **5-8°C**.
+
+---
 
 ### 4. 🚀 Exhaust Assist & Turbulence Control
-**Tujuan:** Mencegah udara panas berputar kembali (re-circulation).
+*Removing residual heat pockets.*
 
-* **Rear Exhaust:** 2x Noctua NF-A12x25 (Push-Pull di belakang) - Membuang panas VRM.
-* **Top Rear Assist:** 2x Lian Li UNI FAN SL-INF 120 - Membantu membuang sisa panas yang lolos dari radiator atas.
+![Rear Fans](https://img.shields.io/badge/Rear-2x_Noctua_NF--A12x25-8B4513?style=flat-square&logo=noctua)
+![Top Assist](https://img.shields.io/badge/Top_Assist-2x_Lian_Li_SL--INF_120-00BFFF?style=flat-square&logo=lianli)
 
----
+> **⚙️ System Control:** Managed via **Corsair iCUE Commander Pro XT**.
+> * **< 40°C:** Silent Mode (Fans @ 30%)
+> * **> 70°C:** Turbo Mode (Intake @ 100%, Exhaust @ 80%)
 
-### ⚙️ Fan Curve Logic (iCUE Commander Pro XT)
-1.  **Zero RPM Mode (Idle / Browsing):** Semua kipas mati atau berputar di 10% (300 RPM). Hening total.
-2.  **Gaming Mode (Load < 60°C):** Front & Bottom fans 40%. Top Radiator 50%. Suara terdengar samar.
-3.  **Render/Training Mode (Load > 75°C):** Semua kipas Intake 70%. Radiator Fans 80%. Prioritas performa pendinginan maksimal.
-
-> **Kesimpulan:** Dengan total **43 kipas**, Corsair 9000D ini bukan lagi sekadar PC, melainkan terowongan angin (wind tunnel) terkontrol. Tidak ada "Hot Spot" atau titik panas yang bisa bertahan di dalam konfigurasi ini.
 
 ---
 
