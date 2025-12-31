@@ -6,7 +6,8 @@
 ---
 
   
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=24&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ivan+Hutabarat!;19+years+old+Tech+Enthusiast;Started+Programming+at+13;Geophysics+Student;WhatsApp+Bot+Developer;Always+Learning!)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=24&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan+Hutabarat!;Geophysics+Student+%40+ITERA;Car+Modification+Enthusiast;Day+Trader+%26+Market+Scalper;TitanCore+System+Architect;WhatsApp+Bot+Developer)
+
 
 ---
 
