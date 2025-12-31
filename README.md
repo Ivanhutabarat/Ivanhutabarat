@@ -358,38 +358,42 @@ bash
 
 ---
 
+## 📈 Financial Operations Center (FOC)
 
-## 🧠 Van-Botz AI Core
+![Vault](https://img.shields.io/badge/Vault-Bibit_Invest-21A366?style=flat-square&logo=android)
+![Radar](https://img.shields.io/badge/Radar-Stockbit_Pro-121212?style=flat-square&logo=apple)
+![Node A](https://img.shields.io/badge/Execution_Node_A-Mirae_Asset_Sekuritas-F58220?style=flat-square&logo=activity)
+![Node B](https://img.shields.io/badge/Execution_Node_B-BCA_Sekuritas-005EB8?style=flat-square&logo=chase)
+![Node C](https://img.shields.io/badge/Execution_Node_C-Spot_Sekuritas-FF0000?style=flat-square&logo=target)
 
-```terminal
-╔══════════════════════════════════════════════╗
-║         🧠 VAN-BOTZ AI CORE SYSTEM                   ║
-╚══════════════════════════════════════════════╝
 
-> identity.scan --user=ivan-hutabarat
-> status: VERIFIED
-> hash: 0xV4N-B0TZ-5090X3D
-> scanning personality...
-> result: 70% logic, 30% caffeine ☕
+---
+## 🧠 Strategy & Allocation Logic
 
-> core.temp: stable
-> creativity.module: overclocked
-> humor.protocol: enabled 😏
+> **Core Protocol:** High-Frequency Scalping (Active) + Asset Compounding (Passive)
 
-> “System personality loaded. Welcome back, Commander.”
-- 👨‍💻 Geophysics student with a passion for code
-- 🤖 WhatsApp bot developer & automation enthusiast
-- 🎮 Gamer, PC builder, and performance optimizer
-- 🧠 Started programming at 13 (and never stopped tweaking)
-- 🔬 Obsessed with ray tracing, DLSS, and RGB that syncs like a symphony
-- 🧩 Creator of Van-Botz OS v5090-X™
-- ⚡ Currently optimizing: electricity bills vs ultra settings
+![Strategy](https://img.shields.io/badge/Method-Tape_Reading_%2B_Scalping-FFD700?style=flat-square&logo=tradingview)
+![Timeframe](https://img.shields.io/badge/Timeframe-Intraday_%2F_Swing-00BFFF?style=flat-square)
+![Risk](https://img.shields.io/badge/Risk_Profile-Aggressive_Growth-FF0000?style=flat-square)
+![Target](https://img.shields.io/badge/Objective-Financial_Autonomy-32CD32?style=flat-square)
 
-```bash
-> core.temp: stable
-> creativity.module: overclocked
-> humor.protocol: enabled 😏
-```
+---
+
+## 📊 Execution Node Architecture
+
+**⚡ High-Speed Scalping Engines (Hot Money)**
+![Mirae](https://img.shields.io/badge/Primary_Engine-Mirae_Asset_Sekuritas-F58220?style=flat-square&logo=activity)
+![Spot](https://img.shields.io/badge/Secondary_Engine-Spot_Sekuritas-FF0000?style=flat-square&logo=target)
+
+**📦 Asset Vaults (Cold Storage & Blue Chips)**
+![Bibit](https://img.shields.io/badge/Mutual_Funds-Bibit_Invest-21A366?style=flat-square&logo=android)
+![BCA](https://img.shields.io/badge/Blue_Chips-BCA_Sekuritas-005EB8?style=flat-square&logo=bankofamerica)
+
+> **📡 Market Radar Summary:**
+> * **Surveillance Node:** Stockbit Pro (Realtime Orderbook & Stream)
+> * **Analysis Mode:** Bandarmology & Technical Flow
+> * **Ecosystem Goal:** Funding TitanCore Upgrades & Future Estate
+
 
 ---
 
