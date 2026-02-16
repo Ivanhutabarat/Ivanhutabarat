@@ -1,18 +1,14 @@
 # 👋 Hi, I'm Ivan Hutabarat!  
 <img src="https://i.imgur.com/gOUibWg.gif" alt="Hello" width="400"/>
 
-🎓 **Geophysics Student** | 💻 **WhatsApp Bot Developer** | 🚀 **Tech Enthusiast**  
-
----
-
+🎓 **Geophysics Student** | 💻 **WhatsApp Bot Developer** | 🚀 **Tech Enthusiast** ---
   
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=24&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan+Hutabarat!;Geophysics+Student+%40+ITERA;Car+Modification+Enthusiast;Day+Trader+%26+Market+Scalper;TitanCore+System+Architect;WhatsApp+Bot+Developer)
-
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Booting+TitanCore+v5090-X%E2%84%A2...;%F0%9F%8F%86+Dual+GPU+Mode+Enabled+:+RTX+5090+%2B+4090.;%F0%9F%8E%AF+Precision+Cooling+Engaged.;%F0%9F%96%A5%EF%B8%8F+Creative+Ops+Ready.;%F0%9F%A7%A0+AI+Inference+Accelerated.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Booting+TitanCore+v5090-X%E2%84%A2...;%F0%9F%8F%86+Dual+GPU+Mode+Enabled+:+2x+RTX+5090;%F0%9F%8E%AF+Precision+Cooling+Engaged.;%F0%9F%96%A5%EF%B8%8F+Creative+Ops+Ready.;%F0%9F%A7%A0+AI+Inference+Accelerated.">
 </p>
 
 ---
@@ -30,7 +26,7 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ![RAM](https://img.shields.io/badge/RAM-256GB_DDR5_6000MHz-yellow?style=for-the-badge&logo=kingston)
 ![NVMe](https://img.shields.io/badge/NVMe-16TB_Gen5-green?style=for-the-badge&logo=samsung)
 ![SATA](https://img.shields.io/badge/SATA-56TB_SSD-lightgrey?style=for-the-badge&logo=seagate)
-![Fans](https://img.shields.io/badge/Fans-43_Active-lightblue?style=for-the-badge&logo=fan)
+![Fans](https://img.shields.io/badge/Fans-35_Active-lightblue?style=for-the-badge&logo=fan)
 ![RGB](https://img.shields.io/badge/RGB-AuraSync_+_iCUE-pink?style=for-the-badge&logo=rgb)
 ![Display](https://img.shields.io/badge/Display-4K_+_8K_+_12K-purple?style=for-the-badge&logo=samsung)
 ![Ambient](https://img.shields.io/badge/Ambient-Galaxy_Drift_Logic-cyan?style=for-the-badge&logo=aurora)
@@ -46,8 +42,8 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ## 🧩 Core Hardware
 
 ![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9950X3D-ED1C24?style=flat-square&logo=amd)
-![GPU 1](https://img.shields.io/badge/GPU_1-ASUS_ROG_RTX_5090_OC-76B900?style=flat-square&logo=nvidia)
-![GPU 2](https://img.shields.io/badge/GPU_2-ASUS_ROG_Strix_RTX_5090-76B900?style=flat-square&logo=nvidia)
+![GPU 1](https://img.shields.io/badge/GPU_1-ASUS_ROG_Strix_RTX_5090_OC-76B900?style=flat-square&logo=nvidia)
+![GPU 2](https://img.shields.io/badge/GPU_2-ASUS_ROG_Strix_RTX_5090_OC-76B900?style=flat-square&logo=nvidia)
 ![Motherboard](https://img.shields.io/badge/Motherboard-ASUS_ROG_X870E_Extreme-0052CC?style=flat-square&logo=asus)
 ![RAM](https://img.shields.io/badge/RAM-256GB_DDR5_6000MHz_RGB-8A2BE2?style=flat-square&logo=kingston)
 ![Storage](https://img.shields.io/badge/Storage-14TB_NVMe_%2B_56TB_SATA_SSD-0ABFBC?style=flat-square&logo=samsung)
@@ -101,10 +97,10 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ---
 
-## 🌪️ TITANCORE AERO-SYSTEMS (43 Active Units)
+## 🌪️ TITANCORE AERO-SYSTEMS (35 Active Units)
 
 > **"Silence is luxury. Performance is mandatory."**
-> A custom-engineered "Extreme Positive Pressure" airflow ecosystem within the **Corsair 9000D Super Tower**. Designed to tame the >1500W thermal output of Dual RTX 5090s & Ryzen 9 9950X3D.
+> A custom-engineered "Optimized Airflow" ecosystem within the **Corsair 9000D Super Tower**. Designed to tame the >1500W thermal output of Dual RTX 5090s & Ryzen 9 9950X3D.
 
 ---
 
@@ -112,11 +108,11 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 | Metric | Rating | Description |
 | :--- | :--- | :--- |
-| **Airflow Volume** | ![1200 CFM](https://img.shields.io/badge/Airflow->1200_CFM-00BFFF?style=flat-square&logo=wind) | Industrial-grade air displacement. |
+| **Airflow Volume** | ![1000 CFM](https://img.shields.io/badge/Airflow->1000_CFM-00BFFF?style=flat-square&logo=wind) | Industrial-grade air displacement. |
 | **Static Pressure** | ![7.63mmH2O](https://img.shields.io/badge/Pressure-7.63_mmH₂O-FF4500?style=flat-square) | High-penetration force for thick radiators. |
-| **Efficiency** | ![+35%](https://img.shields.io/badge/Efficiency-+35%25_Push--Pull-32CD32?style=flat-square) | Thermal dissipation gain vs. standard setup. |
+| **Efficiency** | ![Balanced](https://img.shields.io/badge/Pressure-Balanced_Flow-32CD32?style=flat-square) | Optimized Intake-Exhaust ratio. |
 | **Acoustics (Idle)** | ![25dB](https://img.shields.io/badge/Noise_Idle-25_dB(A)-brightgreen?style=flat-square&logo=quiet) | Whisper quiet (0 RPM Mode Active). |
-| **Acoustics (Load)** | ![52dB](https://img.shields.io/badge/Noise_Load-52_dB(A)-orange?style=flat-square&logo=soundcharts) | Audible airflow (Low-Hum), motor noise dampened. |
+| **Acoustics (Load)** | ![50dB](https://img.shields.io/badge/Noise_Load-50_dB(A)-orange?style=flat-square&logo=soundcharts) | Audible airflow (Low-Hum), motor noise dampened. |
 
 ---
 
@@ -149,15 +145,7 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ![Config](https://img.shields.io/badge/Config-Push--Pull_Wall-00008B?style=flat-square)
 
 * **Placement:** 8 fans external + 8 fans internal.
-* **Effect:** Creates a massive wall of moving air that reaches the motherboard VRMs and RAM, eliminating dead zones.
-
-#### 🔵 Bottom Intake Jet
-*Direct feed for Dual RTX 5090s.*
-![Bottom Fans](https://img.shields.io/badge/Unit-8x_Phanteks_T30_120mm-555555?style=flat-square&logo=phanteks&logoColor=white)
-![Performance](https://img.shields.io/badge/Spec-30mm_Thick_Blades-FFD700?style=flat-square)
-
-* **Placement:** Bottom floor of the Corsair 9000D.
-* **Effect:** Shoots a vertical column of cold air directly into the GPU intakes, dropping GPU temperatures by approx **5-8°C**.
+* **Effect:** Creates a massive horizontal wall of moving air that reaches the motherboard VRMs, RAM, and feeds the Dual GPUs directly from the front.
 
 ---
 
@@ -169,20 +157,20 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 > **⚙️ System Control:** Managed via **Corsair iCUE Commander Pro XT**.
 > * **< 40°C:** Silent Mode (Fans @ 30%)
-> * **> 70°C:** Turbo Mode (Intake @ 100%, Exhaust @ 80%)
-
+> * **> 70°C:** Turbo Mode (Front Intake @ 100% to compensate for lack of bottom intake)
 
 ---
 
 ## 🖥️ Display & Peripherals
 
 ![Monitor](https://img.shields.io/badge/Monitor-Alienware_32_4K_QD--OLED_(AW3225QF)-000000?style=flat-square&logo=dell)
-![Keyboard](https://img.shields.io/badge/Keyboard-GMMK_Pro_Custom_RGB-00BFFF?style=flat-square&logo=glorious)
+![Keyboard](https://img.shields.io/badge/Keyboard-Logitech_G915_X_Lightspeed-00BFFF?style=flat-square&logo=logitech)
 ![Mouse](https://img.shields.io/badge/Mouse-Logitech_G_Pro_X_Superlight_2-000000?style=flat-square&logo=logitech)
 ![Mousepad](https://img.shields.io/badge/Mousepad-XL_ARGB_Gradient_Surface-FF69B4?style=flat-square)
 ![Webcam](https://img.shields.io/badge/Webcam-Elgato_Facecam_Pro_4K_HDR-6666FF?style=flat-square&logo=elgato)
-![Headset](https://img.shields.io/badge/Headset-Sennheiser_HD660S2_%2B_DAC-00FF00?style=flat-square&logo=sennheiser)
+![Headset](https://img.shields.io/badge/Headset-Logitech_G_Pro_X_2_Lightspeed-00FF00?style=flat-square&logo=logitech)
 ![Speakers](https://img.shields.io/badge/Speakers-Edifier_S2000MKIII_RGB_Studio-FF8800?style=flat-square&logo=edifier)
+![Mic](https://img.shields.io/badge/Microphone-Shure_MV7X_XLR_Dynamic-000000?style=flat-square&logo=shure)
 
 
 ---
@@ -197,7 +185,7 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ![OS](https://img.shields.io/badge/OS-Windows_11_Pro_64bit-0078D6?style=flat-square&logo=windows)
 ![Office](https://img.shields.io/badge/Productivity-Microsoft_Office_2021-FF6F00?style=flat-square&logo=microsoft-office)
-![Creative](https://img.shields.io/badge/Editing-Adobe_CC_%2B_DaVinci_Resolve_Studio-800080?style=flat-square&logo=adobe)
+![Editing](https://img.shields.io/badge/Editing-Adobe_CC_%2B_DaVinci_Resolve_Studio-800080?style=flat-square&logo=adobe)
 ![AI Tools](https://img.shields.io/badge/AI_Engine-Oobabooga_%2B_ComfyUI_Local-FF7F50?style=flat-square&logo=openai)
 ![Security](https://img.shields.io/badge/Security-Bitdefender_Total_Security_2025-CC0000?style=flat-square&logo=bitdefender)
 
@@ -205,14 +193,14 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ## ⚡ Power & Cabling
 
-![UPS](https://img.shields.io/badge/UPS-CyberPower_CP1500PFCLCD_1500VA-FF0000?style=flat-square&logo=cyberpower)
+![UPS](https://img.shields.io/badge/UPS-APC_Smart_UPS_SRT3000XLI_3000VA-brightgreen?style=flat-square&logo=schneiderelectric)
 ![Battery Pack](https://img.shields.io/badge/Battery_Pack-APC_SRT192BP2_Extended_Runtime-brightgreen?style=flat-square&logo=schneiderelectric)
 ![Cabling](https://img.shields.io/badge/Cabling-Braided_Carbon_Sleeving_Modular-228B22?style=flat-square)
 ![Cable Management](https://img.shields.io/badge/Cable_Management-Magnetic_Hide_System-808080?style=flat-square)
 
 ![Dust Filter](https://img.shields.io/badge/Dust_Filter-Magnetic_Mesh_%2B_Ring_Guards-708090?style=flat-square)
 ![Blower](https://img.shields.io/badge/Dust_Blower-X3Pro_Turbo_Jet_Cleaner-FF4500?style=flat-square)
-![Power Strip](https://img.shields.io/badge/Power_Strip-RackMounted_EMI_Shielded-DAA520?style=flat-square)
+![Power Strip](https://img.shields.io/badge/PDU-EMI_Shielded_Rack_Mount-FFA500?style=flat-square)
 
 ---
 
@@ -296,8 +284,7 @@ Imagination is my compass. Code is my language. Creativity is my fuel.
 
 ## 🌌 I’m Not Just Code
 
-- 🎮 Gamer by night: *Racing Master*, *Clash of Clans*, and *PUBG*  
-- 📷 AI art explorer with a love for visual storytelling  
+- 🎮 Gamer by night: *Racing Master*, *Clash of Clans*, and *PUBG* - 📷 AI art explorer with a love for visual storytelling  
 - 🧭 Curious about how the earth breathes and how data speaks  
 - 😄 Still figuring things out—and that’s okay
 ## 🔗 Connect with Me
@@ -324,7 +311,7 @@ Imagination is my compass. Code is my language. Creativity is my fuel.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red) 
+![Profile Views](https://komarev.com/ghpvc/?username=Ivanhutabarat&color=red) 
 
 
 ---
