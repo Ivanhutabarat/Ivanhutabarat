@@ -311,7 +311,9 @@ Imagination is my compass. Code is my language. Creativity is my fuel.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ivanhutabarat&color=red) 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)
+
+
 
 
 ---
