@@ -19,6 +19,10 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ---
 
+<img src="https://drive.google.com/uc?export=view&id=1lshb_ZbaH_LAqXzk5VkB_wApOW65pKDb" alt="Nama Gambar" width="500"/>
+
+---
+
 ![Status](https://img.shields.io/badge/Build-Completed-brightgreen?style=for-the-badge&logo=github)
 ![Version](https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge&logo=semantic-release)
 ![Cooling](https://img.shields.io/badge/Cooling-Hybrid_Extreme-blue?style=for-the-badge&logo=cooler)
