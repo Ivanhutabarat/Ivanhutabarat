@@ -291,9 +291,19 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ivan_hutabarat)  
 [![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/~ivan_hutabarat)  
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ivanhutabarat)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ivanhutabarat)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ivanhutabarat) 
 
 ---
+
+### 📡 Current System Status
+
+![Focus](https://img.shields.io/badge/Focus-Geophysics_Data_Analysis-00F7FF?style=for-the-badge&logo=python&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Machine_Learning_in_Geoscience-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Bot Status](https://img.shields.io/badge/WhatsApp_Bot-Online_%26_Active-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Availability](https://img.shields.io/badge/Availability-Open_to_Collaborate-orange?style=for-the-badge&logo=github)
+
+---
+ 
 
 ## 📊 GitHub Stats & Activity
 
