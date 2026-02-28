@@ -307,20 +307,13 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ## 📊 GitHub Stats &Activity
 
-![Metrics](https://metrics.lecoq.io/Ivanhutabarat?template=classic&config.timezone=Asia%2FJakarta)
 
----
+## 📊 GitHub System Analytics
 
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=radical)
-
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=radical)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical)
+![Commits](https://img.shields.io/badge/Total_Commits-Calculated_Daily-00F7FF?style=for-the-badge&logo=github)
+![PRs](https://img.shields.io/badge/Pull_Requests-Active-8A2BE2?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars_Earned-Growing-orange?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Account_Status-Verified_Developer-25D366?style=for-the-badge&logo=github)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)
