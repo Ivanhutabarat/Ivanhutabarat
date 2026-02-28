@@ -318,8 +318,14 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ##🔥🔥fatured Projects
 
-[![WhatsApp Bot Project](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=WaBot&theme=cobalt)](https://github.com/Ivanhutabarat/WaBot)  
-[![Geophysics Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=Geophysics-Data&theme=cobalt)](https://github.com/Ivanhutabarat/Geophysics-Data)  
+---
+
+## 🔥 Featured Projects
+
+[![WhatsApp Bot Project](https://img.shields.io/badge/Project-WhatsApp_Bot_WaBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Ivanhutabarat/WaBot)  
+[![Geophysics Analysis](https://img.shields.io/badge/Project-Geophysics_Data_Analysis-00F7FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Ivanhutabarat/Geophysics-Data)  
+
+---
 
 ---
 
