@@ -257,7 +257,6 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 ## 🧠 Use Case
 
 - 🎮 4K Ultra Gaming (Warzone, Cyberpunk, Starfield)
-- 🌍 Simulasi Geofisika (MATLAB, COMSOL, Petrel)
 - 🎥 Video Editing & AI Art Generation
 - 🧪 Local AI Inference & Prompt Engineering
 - 🧰 Terminal-style GitHub Branding
@@ -266,13 +265,6 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 > _“This machine doesn’t just run code. It runs imagination.”_  
 > — Ivan Hutabarat 
-
-## 🧭 Why I Code
-
-I code not just to build, but to understand.  
-To connect logic with the earth beneath us.  
-To turn raw data into stories, and silence into signals.  
-Imagination is my compass. Code is my language. Creativity is my fuel.
 
 ---
 
@@ -286,11 +278,6 @@ Imagination is my compass. Code is my language. Creativity is my fuel.
 
 ---
 
-## 🌌 I’m Not Just Code
-
-- 🎮 Gamer by night: *Racing Master*, *Clash of Clans*, and *PUBG* - 📷 AI art explorer with a love for visual storytelling  
-- 🧭 Curious about how the earth breathes and how data speaks  
-- 😄 Still figuring things out—and that’s okay
 ## 🔗 Connect with Me
 
 [![WhatsApp Owner](https://img.shields.io/badge/WhatsApp%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285260245100)  
