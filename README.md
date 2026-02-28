@@ -17,9 +17,6 @@
 
 A cinematic machine forged for AI, simulation, and artistic workflows — where power meets identity. With dual flagship GPUs, precision cooling through hardline acrylic tubing, and a storage array exceeding 70TB, TitanCore is more than a system: it’s a sanctuary of speed, silence, and soul.
 
----
-
-<img src="https://drive.google.com/uc?export=view&id=1lshb_ZbaH_LAqXzk5VkB_wApOW65pKDb" alt="Nama Gambar" width="500"/>
 
 ---
 
