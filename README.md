@@ -304,9 +304,6 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)
 
-
-
-
 ---
 
 ##🔥🔥fatured Projects
