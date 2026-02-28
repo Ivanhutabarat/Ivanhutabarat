@@ -59,13 +59,6 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 
 ---
-## If you want to see my full setup, click the settings below.
-
-<details>
-  <summary><b>🛠️ [CLASSIFIED] TitanCore Chamber v2 Full Technical Specs</b></summary>
-  <br>
-
-  </details>
 
 ## 🧠 System Memory (RAM)
 
