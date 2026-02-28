@@ -305,11 +305,7 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 ---
  
 
-## 📊 GitHub Stats & Activity
-
----
-
-## 📊 GitHub Performance Metrics
+## 📊 GitHub Stats &Activity
 
 ![Metrics](https://metrics.lecoq.io/Ivanhutabarat?template=classic&config.timezone=Asia%2FJakarta)
 
