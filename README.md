@@ -304,10 +304,6 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ---
  
-
-## 📊 GitHub Stats &Activity
-
-
 ## 📊 GitHub System Analytics
 
 ![Commits](https://img.shields.io/badge/Total_Commits-Calculated_Daily-00F7FF?style=for-the-badge&logo=github)
