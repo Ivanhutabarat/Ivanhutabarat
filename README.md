@@ -357,29 +357,6 @@ bash
 
 ## 📈 Financial Operations Center (FOC)
 
-![Vault](https://img.shields.io/badge/Vault-Bibit_Invest-21A366?style=flat-square&logo=android)
-![Radar](https://img.shields.io/badge/Radar-Stockbit_Pro-121212?style=flat-square&logo=apple)
-![Node A](https://img.shields.io/badge/Execution_Node_A-Mirae_Asset_Sekuritas-F58220?style=flat-square&logo=activity)
-![Node B](https://img.shields.io/badge/Execution_Node_B-BCA_Sekuritas-005EB8?style=flat-square&logo=chase)
-![Node C](https://img.shields.io/badge/Execution_Node_C-Spot_Sekuritas-FF0000?style=flat-square&logo=target)
-
-
----
-## 🧠 Strategy & Allocation Logic
-
-> **Core Protocol:** High-Frequency Scalping (Active) + Asset Compounding (Passive)
-
-![Strategy](https://img.shields.io/badge/Method-Tape_Reading_%2B_Scalping-FFD700?style=flat-square&logo=tradingview)
-![Timeframe](https://img.shields.io/badge/Timeframe-Intraday_%2F_Swing-00BFFF?style=flat-square)
-![Risk](https://img.shields.io/badge/Risk_Profile-Aggressive_Growth-FF0000?style=flat-square)
-![Target](https://img.shields.io/badge/Objective-Financial_Autonomy-32CD32?style=flat-square)
-
----
-
----
-
-## 📈 Financial Operations Center (FOC)
-
 ![Vault](https://img.shields.io/badge/Vault-Bibit_Invest-21A366?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Radar](https://img.shields.io/badge/Radar-Stockbit_Pro-121212?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Binance](https://img.shields.io/badge/Exchange-Binance-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
