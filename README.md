@@ -316,16 +316,14 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ---
 
-##🔥🔥fatured Projects
-
----
-
 ## 🔥 Featured Projects
 
-[![WhatsApp Bot Project](https://img.shields.io/badge/Project-WhatsApp_Bot_WaBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Ivanhutabarat/WaBot)  
-[![Geophysics Analysis](https://img.shields.io/badge/Project-Geophysics_Data_Analysis-00F7FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Ivanhutabarat/Geophysics-Data)  
+[![N8N Geophysics](https://img.shields.io/badge/Featured_Project-n8n_WhatsApp_Geophysics-00F7FF?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/Ivanhutabarat/n8n-whatsapp-geophysics)  
+> *Streamlining geophysical data analysis through automated WhatsApp workflows powered by n8n.*
 
----
+[![Van Botz](https://img.shields.io/badge/Main_Project-Van--Botz_Modular-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Ivanhutabarat/Van-Botz)  
+> *A high-performance, modular WhatsApp bot framework engineered for stability and logic-driven interactions.*
+
 
 ---
 
