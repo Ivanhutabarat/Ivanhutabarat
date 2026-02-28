@@ -314,7 +314,12 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)
 
+### 📈 System Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivanhutabarat&theme=radical&area=true&hide_border=true)
+
+
 ---
+
 
 ## 🔥 Featured Projects
 
