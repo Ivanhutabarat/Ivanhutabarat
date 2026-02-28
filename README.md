@@ -376,20 +376,43 @@ bash
 
 ---
 
+---
+
+## 📈 Financial Operations Center (FOC)
+
+![Vault](https://img.shields.io/badge/Vault-Bibit_Invest-21A366?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Radar](https://img.shields.io/badge/Radar-Stockbit_Pro-121212?style=for-the-badge&logo=tradingview&logoColor=white)
+![Binance](https://img.shields.io/badge/Exchange-Binance-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
+![MT5](https://img.shields.io/badge/Platform-MetaTrader_5-0059B2?style=for-the-badge&logo=metatrader5&logoColor=white)
+![MIFX](https://img.shields.io/badge/Broker-MIFX-000000?style=for-the-badge&logo=target&logoColor=red)
+
+---
+
+## 🧠 Strategy & Allocation Logic
+
+> **Core Protocol:** High-Frequency Scalping (Active) + Asset Compounding (Passive)
+
+![Method](https://img.shields.io/badge/Method-Tape_Reading_%2B_Scalping-FFD700?style=flat-square&logo=chart-dot)
+![Timeframe](https://img.shields.io/badge/Timeframe-Intraday_%2F_Swing-00BFFF?style=flat-square)
+![Risk](https://img.shields.io/badge/Risk_Profile-Aggressive_Growth-FF0000?style=flat-square)
+![Target](https://img.shields.io/badge/Objective-Financial_Autonomy-32CD32?style=flat-square)
+
+---
+
 ## 📊 Execution Node Architecture
 
 **⚡ High-Speed Scalping Engines (Hot Money)**
-![Mirae](https://img.shields.io/badge/Primary_Engine-Mirae_Asset_Sekuritas-F58220?style=flat-square&logo=activity)
-![Spot](https://img.shields.io/badge/Secondary_Engine-Spot_Sekuritas-FF0000?style=flat-square&logo=target)
+![Mirae](https://img.shields.io/badge/Primary_Engine-Mirae_Asset_Sekuritas-F58220?style=for-the-badge&logo=lightning&logoColor=white)
+![Spot](https://img.shields.io/badge/Secondary_Engine-Spot_Sekuritas-FF0000?style=for-the-badge&logo=activity&logoColor=white)
+![MIFX](https://img.shields.io/badge/FX_Engine-MIFX_Pro-000000?style=for-the-badge&logo=currency-exchange&logoColor=gold)
 
 **📦 Asset Vaults (Cold Storage & Blue Chips)**
-![Bibit](https://img.shields.io/badge/Mutual_Funds-Bibit_Invest-21A366?style=flat-square&logo=android)
-![BCA](https://img.shields.io/badge/Blue_Chips-BCA_Sekuritas-005EB8?style=flat-square&logo=bankofamerica)
+![SafePal](https://img.shields.io/badge/Cold_Wallet-SafePal_S1-000000?style=for-the-badge&logo=keepkey&logoColor=white)
+![Binance](https://img.shields.io/badge/Crypto_Vault-Binance_Global-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
+![BlueChip](https://img.shields.io/badge/Stocks-Saham_Blue_Chip-005EB8?style=for-the-badge&logo=bank&logoColor=white)
+![Bibit](https://img.shields.io/badge/Mutual_Funds-Bibit_Invest-21A366?style=for-the-badge&logo=leaf&logoColor=white)
 
-> **📡 Market Radar Summary:**
-> * **Surveillance Node:** Stockbit Pro (Realtime Orderbook & Stream)
-> * **Analysis Mode:** Bandarmology & Technical Flow
-> * **Ecosystem Goal:** Funding TitanCore Upgrades & Future Estate
+> *🛡️ System Security: High-value assets are secured via Air-Gapped Cold Storage Protocol (SafePal S1).*
 
 
 ---
