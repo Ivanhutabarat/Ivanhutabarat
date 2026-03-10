@@ -338,9 +338,9 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 bash
 > syncing Ivanhutabarat/repos --public --attach=badges/language
 
-
 | Repository                                              | Description                                                                                          | Language      |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|
+| [`GeoStream-Automata-`](https://github.com/Ivanhutabarat/GeoStream-Automata-) | 🛰️ Advanced automation for Geophysical data processing & visualization (SBA & Schlumberger) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [`n8n-whatsapp-geophysics`](https://github.com/Ivanhutabarat/n8n-whatsapp-geophysics) | Automasi WhatsApp + analisis data geofisika pakai n8n                                                | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [`Ivanhutabarat`](https://github.com/Ivanhutabarat/Ivanhutabarat) | GitHub profile config + visual identity                                                              | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 | [`Geophysics-visualization`](https://github.com/Ivanhutabarat/Geophysics-visualization) | Visualisasi data geofisika menggunakan Python dan Matplotlib                                         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
@@ -350,6 +350,7 @@ bash
 | [`N8n-Automation`](https://github.com/Ivanhutabarat/N8n-Automation) | Koleksi awal workflow automation dengan n8n                                                          | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [`geophysics-data-visualization`](https://github.com/Ivanhutabarat/geophysics-data-visualization) | Visualisasi + analisis data geofisika berbasis Python                                                | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [`whatsapp-bot-starter`](https://github.com/Ivanhutabarat/whatsapp-bot-starter) | Starter kit WhatsApp bot ringan & modular menggunakan JavaScript                                     | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
 
 > _From geoscience to automation, everything is built with love and logic._ 💻🌍
 
