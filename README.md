@@ -303,9 +303,8 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
  
 ## 📊 GitHub System Analytics
 
-![TitanMetrics](https://metrics.lecoq.io/Ivanhutabarat?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FJakarta&plugin_languages=yes&plugin_languages_colors=rainbow&plugin_languages_limit=8&plugin_languages_threshold=0%25&theme=pink-lavender)
-
-
+[![WhatsApp Bot Project](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=WaBot&theme=cobalt)](https://github.com/Ivanhutabarat/WaBot)  
+[![Geophysics Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=Geophysics-Data&theme=cobalt)](https://github.com/Ivanhutabarat/Geophysics-Data)  
 
 ![Commits](https://img.shields.io/badge/Total_Commits-Calculated_Daily-00F7FF?style=for-the-badge&logo=github)
 ![PRs](https://img.shields.io/badge/Pull_Requests-Active-8A2BE2?style=for-the-badge&logo=github)
