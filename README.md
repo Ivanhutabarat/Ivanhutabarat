@@ -12,6 +12,7 @@
 </p>
 
 ---
+[![Python Package using Conda](https://github.com/Ivanhutabarat/GeoStream-Automata-/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/Ivanhutabarat/GeoStream-Automata-/actions/workflows/python-package-conda.yml)
 
 # 🚀 TitanCore Chamber v2 (2025)
 
