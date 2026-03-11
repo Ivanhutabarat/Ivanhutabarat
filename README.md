@@ -317,6 +317,8 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 ### 📈 System Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivanhutabarat&theme=radical&area=true&hide_border=true)
 
+[![trophies](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 🚀 Repo Stats & Showcase
