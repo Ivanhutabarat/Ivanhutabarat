@@ -304,6 +304,9 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
  
 ## 📊 GitHub System Analytics
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivanhutabarat&theme=onedark)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats 1" /><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats 2" />
 </p>
@@ -313,6 +316,7 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)
+
 
 ### 📈 System Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivanhutabarat&theme=radical&area=true&hide_border=true)
