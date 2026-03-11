@@ -320,7 +320,8 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Ivanhutabarat/Ivanhutabarat/output/github-contribution-grid-snake.svg)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
