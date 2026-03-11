@@ -317,6 +317,10 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 ### 📈 System Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivanhutabarat&theme=radical&area=true&hide_border=true)
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ivanhutabarat/Ivanhutabarat/output/github-contribution-grid-snake.svg)
+
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=onedark&no-frame=false" alt="Ivan's Trophies" />
