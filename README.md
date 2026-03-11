@@ -303,32 +303,27 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
  
 ## 📊 GitHub System Analytics
 
-[![WhatsApp Bot Project](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=WaBot&theme=cobalt)](https://github.com/Ivanhutabarat/WaBot)  
-[![Geophysics Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=Geophysics-Data&theme=cobalt)](https://github.com/Ivanhutabarat/Geophysics-Data)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats 1" /><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats 2" />
+</p>
 
-![Commits](https://img.shields.io/badge/Total_Commits-Calculated_Daily-00F7FF?style=for-the-badge&logo=github)
-![PRs](https://img.shields.io/badge/Pull_Requests-Active-8A2BE2?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars_Earned-Growing-orange?style=for-the-badge&logo=github)
-![Status](https://img.shields.io/badge/Account_Status-Verified_Developer-25D366?style=for-the-badge&logo=github)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)
 
 ### 📈 System Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivanhutabarat&theme=radical&area=true&hide_border=true)
 
-
 ---
 
+## 🚀 Repo Stats & Showcase
 
-## 🔥 Featured Projects
-
-[![N8N Geophysics](https://img.shields.io/badge/Featured_Project-n8n_WhatsApp_Geophysics-00F7FF?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/Ivanhutabarat/n8n-whatsapp-geophysics)  
-> *Streamlining geophysical data analysis through automated WhatsApp workflows powered by n8n.*
-
-[![Van Botz](https://img.shields.io/badge/Main_Project-Van--Botz_Modular-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Ivanhutabarat/Van-Botz)  
-> *A high-performance, modular WhatsApp bot framework engineered for stability and logic-driven interactions.*
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=GeoStream-Automata-&theme=tokyonight" alt="GeoStream Automata Pin" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivanhutabarat&repo=n8n-whatsapp-geophysics&theme=tokyonight" alt="n8n Geophysics Pin" />
+</p>
 
 ---
 
