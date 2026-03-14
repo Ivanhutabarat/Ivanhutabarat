@@ -267,16 +267,6 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ---
 
-## 🔍 What I’m Exploring Now
-
-- 🌋 Seismic data visualization using Python  
-- 🧠 Prompt engineering for AI-generated art  
-- 🛰️ Integrating geophysical data with machine learning  
-- 🎨 Designing expressive, cinematic README layouts  
-- 🛠️ Building tools that blend science, storytelling, and self-expression
-
----
-
 ## 🔗 Connect with Me
 
 [![WhatsApp Owner](https://img.shields.io/badge/WhatsApp%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285260245100)  
