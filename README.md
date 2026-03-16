@@ -14,6 +14,9 @@
 ---
 [![Python Package using Conda](https://github.com/Ivanhutabarat/GeoStream-Automata-/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/Ivanhutabarat/GeoStream-Automata-/actions/workflows/python-package-conda.yml)
 
+[![YTM Stats](https://ytm-stats.vercel.app/api?username=@menow-zo4jq&theme=onedark)](https://music.youtube.com/channel/menow-zo4jq)
+
+
 # 🚀 TitanCore Chamber v2 (2025)
 
 A cinematic machine forged for AI, simulation, and artistic workflows — where power meets identity. With dual flagship GPUs, precision cooling through hardline acrylic tubing, and a storage array exceeding 70TB, TitanCore is more than a system: it’s a sanctuary of speed, silence, and soul.
