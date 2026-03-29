@@ -231,6 +231,11 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ---
 
+<kbd>👾⚙️ Digital Ecosystem: The Ivan Protocol // Neo Core</kbd>  
+_A daily injection of code, combat, and cinematic energy — electrified in luminescent syntax._
+
+---
+
 ### 🧠 CODE // NODE
 ![Termux](https://img.shields.io/badge/TΞRMUX-000000?logo=gnubash&style=for-the-badge&labelColor=1a1a1a)
 ![GitHub](https://img.shields.io/badge/GIⱴHUB-181717?logo=github&style=for-the-badge&labelColor=24292e)
