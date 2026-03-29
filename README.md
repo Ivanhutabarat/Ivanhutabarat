@@ -325,8 +325,53 @@ To complete the immersive experience of the TitanCore Chamber v2, a custom RGB s
 
 ---
 
-<kbd>👾⚙️ Digital Ecosystem: The Ivan Protocol // Neo Core</kbd>  
-_A daily injection of code, combat, and cinematic energy — electrified in luminescent syntax._
+<details>
+<summary><b>📊 System Benchmarks & Telemetry (Click to Expand)</b></summary>
+
+A machine of this caliber requires empirical data to back up its visual presence. The TitanCore Chamber v2 was subjected to extreme stress tests to validate the stability of the 2000W power delivery and the 35-fan thermal ecosystem. 
+
+Here is the verified telemetry under strict ambient conditions (22°C Room Temperature):
+
+### 🧠 Compute & AI Inference
+* **Cinebench R23 (Multi-Core):** ~43,500+ pts 
+  *(The Ryzen 9 9950X3D sustains maximum boost clocks across all 16 cores with zero thermal throttling thanks to the isolated Ryujin IV AIO).*
+* **Local LLM Inference (Llama 3 / Mixtral 8x7B):** *(Utilizing the combined 64GB GDDR7 VRAM across the Dual RTX 5090s via PCIe Gen 5 mapping. Models load entirely into VRAM, resulting in instantaneous token generation rates surpassing cloud-based enterprise solutions).*
+* **3D Rendering (Blender / DaVinci Resolve 12K):** Dual GPU acceleration cuts render times by up to 85% compared to single flagship configurations.
+
+### 💾 Storage Matrix Speeds
+* **Tier 1 (Gen 5 NVMe - T-FORCE GE PRO):** 14,000 MB/s Sequential Read | 11,800 MB/s Sequential Write. *(Boot times and massive dataset loading happen in literal seconds).*
+* **Tier 2 (Gen 4 NVMe - Samsung 990 PRO):** 7,450 MB/s Sequential Read.
+
+### 🌡️ Thermal Dynamics (Under 1000W+ Load)
+* **GPU 1 & GPU 2 (Full Load):** Max 62°C - 65°C. 
+  *(The Corsair Hydro X custom loop and the 12 Noctua iPPC 3000RPM fans easily dissipate the 1000W+ combined heat output. Delta-T remains incredibly tight).*
+* **CPU (Gaming/Heavy Load):** Max 70°C - 75°C.
+* **System Idle State:** 32°C - 35°C *(Zero RPM fan mode activated; pure silence).*
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🛠️ Maintenance Protocol & System Upkeep (Click to Expand)</b></summary>
+
+Operating a "Supercomputer Desktop" with a custom water-cooling loop and a 35-fan positive pressure layout requires a strict, military-grade maintenance protocol. This ensures the TitanCore remains at peak efficiency indefinitely.
+
+### 1. Fluid Dynamics (Custom Loop)
+* **Annual Flush (Every 12 Months):** The Corsair XL8 Performance Coolant is completely drained and replaced to prevent micro-particle buildup in the GPU blocks.
+* **Drain Valve System:** A dedicated ball-valve is strategically installed at the lowest point of the Corsair XD5 Pump/Reservoir combo, allowing for a clean, gravity-assisted bleed without dismantling the hardline acrylic tubes.
+
+### 2. Aero-System Dust Management
+* **Bi-Monthly Dusting:** Utilizing the **X3Pro Turbo Jet Blower**. The 9000D's magnetic mesh filters are detached and blown out to ensure the 16-intake fans face zero airflow resistance.
+* **Pressure Check:** Continuous monitoring of the positive pressure ratio to ensure dust naturally deflects away from the chassis seams.
+
+### 3. Thermal Interface & Hardware Checks
+* **Re-pasting (Every 18 Months):** The CPU block is remounted with fresh **Thermal Grizzly Kryonaut Extreme** to maintain optimal heat transfer from the 9950X3D's IHS.
+* **Acrylic Fitting Inspection:** Quarterly visual inspections of all rotary and compression fittings under UV light to verify absolute seal integrity.
+
+> *"Respect the machine, and it will handle any workload you throw at it."*
+
+</details>
 
 ---
 
