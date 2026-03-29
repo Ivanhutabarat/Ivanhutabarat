@@ -167,6 +167,76 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ---
 
+<details>
+<summary><b>🛠️ Architectural Insights & Build Philosophy (Click to Expand)</b></summary>
+
+### 1. Compute & AI Behemoth
+The deployment of **Dual RTX 5090s (64GB Total VRAM)** paired with the **Ryzen 9 9950X3D** and **256GB RAM** indicates this rig's primary directive: Local AI LLM Training and massive Dataset Modeling. This enables running high-parameter models locally with absolute zero cloud latency.
+
+### 2. "Insane" Thermal Dynamics
+Taming the heat from two GPUs pulling a combined 1000W+ is no small feat.
+* **35 Active Fans:** A staggering number. The push-pull configuration on the 420mm radiator using **Noctua Industrial 3000RPM** fans is the most rational approach to prevent the GPUs from thermal throttling during 12K renders.
+* **Positive Pressure:** The strategy of 16 intakes vs. 19 exhausts (calculated via CFM) is crucial to keeping dust out of the massive Corsair 9000D chassis.
+
+### 3. Mature Power Infrastructure
+Many builders prioritize high-end specs but neglect power delivery. Utilizing the **Super Flower 2000W** alongside an **APC 3000VA Pure Sine Wave Online UPS** is a brilliant move. Flawless power stability is critical for components of this tier.
+
+### 4. Aesthetics & Workflow Synergy
+Isolating the CPU with its own AIO while putting the GPUs on a Custom Loop ensures thermal loads do not "cook" each other. Furthermore, bridging iCUE and Aura Sync via **OpenRGB** demonstrates a perfectionist approach to lighting synchronization.
+
+> *Note on Storage:* With **72TB Active Storage**, a robust 3-2-1 backup strategy (e.g., an external NAS or Cloud) is highly recommended. Losing a single 8TB SATA drive in a setup this vast could be catastrophic during tight 12K project deadlines.
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🔌 Ultimate Cable Management & Wiring Blueprint (Click to Expand)</b></summary>
+
+Wiring 35 fans and 5 Corsair Commander Pro XTs is a god-tier cable management challenge. Miscalculating amperage on a single header or using cheap splitters risks controller burnout or short circuits. Here is the exact wiring schema designed for electrical safety and seamless iCUE control.
+
+### ⚡ Golden Rules: Power Delivery
+* **SATA Power:** Never stack more than 2 Commander Pro XTs on a single SATA cable line directly from the Super Flower 2000W PSU. Run dedicated SATA lines.
+* **Internal USB:** Because the X870E Extreme motherboard has limited internal USB 2.0 headers, an **Internal Powered USB Hub** (e.g., Corsair or NZXT) is **MANDATORY** to ensure stable detection of all controllers.
+
+### 📂 Controller Mapping
+
+#### Controllers 1 & 2: GPU Zone (The Heat Tamer)
+*Dedicated to the 12x Noctua iPPC 3000RPM fans on the Top Radiator (Push-Pull).*
+* **Wiring:** 2x Commander Pro XT units. Each controller handles 6 fans (**1 port = 1 fan**).
+* **Critical Note:** Noctua iPPC 3000RPM fans have a much higher power draw than standard fans. **Do not use 3-way splitters here.** Ensure a strict 1-to-1 ratio to protect the controller's capacitors.
+
+#### Controllers 3 & 4: Intake Zone (The Air Wall)
+*Dedicated to the 16x Lian Li UNI FAN SL-INF 140s at the Front (Push-Pull).*
+* **Wiring:** Utilize the Lian Li Hubs included with the fans. Route their PWM/RGB outputs into Commander Pro XTs #3 and #4.
+* **Efficiency:** Because Lian Li uses a daisy-chain system, one block of 4 fans only occupies 1 PWM slot on the Commander Pro, drastically reducing cable clutter.
+
+#### Controller 5: Exhaust & Assist Zone
+*Dedicated to the 2x Noctua Rear, 2x Lian Li Top Assist, and remaining system fans.*
+* **Wiring:** Commander Pro XT #5 acts as the central exhaust hub.
+  * **Ports 1-2:** Noctua Rear Exhausts.
+  * **Ports 3-4:** Lian Li Top Assists.
+  * **Ports 5-6:** Reserved for future thermal sensors or flow meters.
+* *Note:* The Ryujin IV AIO fans should remain plugged into the Motherboard's `CPU_FAN` header to ensure the system boots without a "CPU Fan Speed Detection Error".
+
+### 📊 Connection Summary
+
+| Component | Controller Assigned | Fan Type | Connection Method |
+| :--- | :--- | :--- | :--- |
+| **Top Rad (GPU)** | Cmdr Pro #1 & #2 | Noctua iPPC 3000 | 1 Fan per Port (Total 12 Ports) |
+| **Front (Intake)** | Lian Li Hub + Cmdr Pro #3 & #4 | Lian Li SL-INF 140 | Daisy-chain (4 clusters) |
+| **Rear & Top** | Cmdr Pro #5 | Noctua & Lian Li | Direct to Controller |
+| **CPU AIO** | Motherboard Header | Ryujin Stock Fans | Direct to Pump/Fan Header |
+
+### 🛠️ Pro-Tips for System Safety
+1. **Thermal Sensors:** The Commander Pro XTs include thermistor cables. Mount one sensor between the Dual RTX 5090s and another at the top radiator exhaust. Bind your Fan Curves in iCUE to these sensors, not just the CPU temperature.
+2. **Ferrite Beads:** If possible, attach ferrite beads to the internal USB cables. This prevents electromagnetic interference (EMI) from the massive power draw of the 5090s, which can cause controllers to randomly disconnect/reconnect in iCUE.
+3. **Labeling:** Wrap masking tape labels (e.g., "INTAKE-FRONT-TOP") around the end of every cable *before* routing them into the back of the 9000D chassis. Without labels, you will get lost in a forest of 35 fan cables.
+
+</details>
+
+---
+
 ## 🖥️ Display & Peripherals
 
 ![Monitor](https://img.shields.io/badge/Monitor-Alienware_32_4K_QD--OLED_(AW3225QF)-000000?style=flat-square&logo=dell)
