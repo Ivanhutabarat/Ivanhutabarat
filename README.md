@@ -249,7 +249,7 @@ Wiring 35 fans and 5 Corsair Commander Pro XTs is a god-tier cable management ch
 ![Mic](https://img.shields.io/badge/Microphone-Shure_MV7X_XLR_Dynamic-000000?style=flat-square&logo=shure)
 ![Laptop](https://img.shields.io/badge/Laptop_Console-MSI_Katana_17_B12U-ED1C24?style=flat-square&logo=msi&logoColor=white)
 ![Portable Monitor](https://img.shields.io/badge/Portable_Monitor-Arzopa_A1T_15.6_Inch-FF6F00?style=flat-square)
-![Keyboard](https://img.shields.io/badge/Keyboard-Aula_S75_Pro_White-E0E0E0?style=flat-square&logoColor=black)
+![Keyboard2](https://img.shields.io/badge/Keyboard-Aula_S75_Pro_White-E0E0E0?style=flat-square&logoColor=black)
 
 
 ---
