@@ -289,6 +289,35 @@ Wiring 35 fans and 5 Corsair Commander Pro XTs is a god-tier cable management ch
 
 ---
 
+<details>
+<summary><b>🪩 Cinematic Startup Sequence: "TitanAwaken" Macro (Click to Expand)</b></summary>
+
+To complete the immersive experience of the TitanCore Chamber v2, a custom RGB startup macro was engineered utilizing a seamless bridge between **Corsair iCUE, ASUS Aura Sync, and OpenRGB**. This ensures the 35 fans, dual GPUs, and LED strips do not just turn on—they *awaken* cinematically.
+
+### 🎬 The Boot Sequence Phases:
+
+* **Phase 0: Absolute Zero (Pre-Boot)**
+  * **State:** The system is powered off but receiving standby power from the APC 3000VA UPS.
+  * **Lighting:** Complete blackout. True dark mode. Only the Motherboard's physical 'Start' button pulses softly.
+
+* **Phase 1: Engine Ignition (Power Button Pressed)**
+  * **Hardware Logic:** Fans spin up to 30% RPM for a hardware check. The Hydro X XD5 Pump activates at 50% flow rate.
+  * **Lighting:** A single, sharp white light pulse travels from the CPU block (Ryujin IV) down the hardline acrylic tubes, simulating pure energy flowing into the dual RTX 5090s. 
+  * **Ryujin LCD:** Boots up displaying the custom "TitanCore™ Neo Core" loading crest.
+
+* **Phase 2: Core Saturation (OS Hand-off)**
+  * **Hardware Logic:** Windows 11 Pro takes over control. Massive 256GB memory training is complete.
+  * **Lighting:** The 16 Front Lian Li SL-INF 140 Intake fans ignite row by row from bottom to top in a deep crimson red. The Top Custom Loop fans emit a subtle UV/Purple glow, beautifully highlighting the XL8 Performance coolant.
+
+* **Phase 3: Zen Mode / Starfield Drift (Idle State)**
+  * **Hardware Logic:** System achieves thermal equilibrium. Fans drop to silent operation (0 RPM mode if < 40°C). The machine is deadly quiet.
+  * **Lighting:** The entire chassis settles into a slow, breathing gradient of **Abyss Black, Crimson Red, and Nebula Purple**. 
+  * **Reactive Ambient Logic:** The Commander Pro XTs are programmed to shift the lighting based on workload. If the dual 5090s exceed 75°C during a massive AI training epoch or 12K render, the internal chamber lighting progressively transitions to a 'Thermal Alert' orange/red, syncing perfectly with the Secretlab MAGNUS desk ambient strip.
+
+</details>
+
+---
+
 > 🧠 **Total Storage:** 14TB NVMe + 56TB SATA + 4-slot expansion (Max capacity: 128TB+)  
 > ❄️ **Cooling:** Dual radiator, XD5 RGB pump, acrylic tubing, flow monitoring  
 > 🛡️ **Use Cases:** AI Training · 12K Editing · Game Dev · Dataset Modeling · Virtualization · Prompt Crafting  
