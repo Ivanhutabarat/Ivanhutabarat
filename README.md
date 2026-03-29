@@ -1,42 +1,49 @@
-# 👋 Hi, I'm Ivan Hutabarat!  
-<img src="https://i.imgur.com/gOUibWg.gif" alt="Hello" width="400"/>
+<div align="center">
+  <img src="https://i.imgur.com/gOUibWg.gif" alt="Hello" width="250"/>
 
-🎓 **Geophysics Student** | 💻 **WhatsApp Bot Developer** | 🚀 **Tech Enthusiast** ---
+  # 👋 Hi, I'm Ivan Hutabarat!
   
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=24&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan+Hutabarat!;Geophysics+Student+%40+ITERA;Car+Modification+Enthusiast;Day+Trader+%26+Market+Scalper;TitanCore+System+Architect;WhatsApp+Bot+Developer)
+  🎓 **Geophysics Student** | 💻 **WhatsApp Bot Developer** | 🚀 **Tech Enthusiast**
+
+  <br>
+
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%2300F7FF&size=22&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan+Hutabarat!;Geophysics+Student+%40+ITERA;TitanCore+System+Architect;Day+Trader+%26+Market+Scalper;WhatsApp+Bot+Developer;Car+Modification+Enthusiast)
+
+  <br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Booting+TitanCore+v5090-X%E2%84%A2...;%F0%9F%8F%86+Dual+GPU+Mode+Enabled+:+2x+RTX+5090;%F0%9F%8E%AF+Precision+Cooling+Engaged.;%F0%9F%96%A5%EF%B8%8F+Creative+Ops+Ready.;%F0%9F%A7%A0+AI+Inference+Accelerated.">
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Booting+TitanCore+v5090-X%E2%84%A2...;%F0%9F%8F%86+Dual+GPU+Mode+Enabled+:+2x+RTX+5090;%F0%9F%8E%AF+Precision+Cooling+Engaged.;%F0%9F%96%A5%EF%B8%8F+Creative+Ops+Ready.;%F0%9F%A7%A0+AI+Inference+Accelerated.">
-</p>
+<div align="center">
 
----
 [![Python Package using Conda](https://github.com/Ivanhutabarat/GeoStream-Automata-/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/Ivanhutabarat/GeoStream-Automata-/actions/workflows/python-package-conda.yml)
-
 [![YTM Stats](https://ytm-stats.vercel.app/api?username=@menow-zo4jq&theme=onedark)](https://music.youtube.com/channel/menow-zo4jq)
 
+</div>
+
+---
 
 # 🚀 TitanCore Chamber v2 (2025)
 
 A cinematic machine forged for AI, simulation, and artistic workflows — where power meets identity. With dual flagship GPUs, precision cooling through hardline acrylic tubing, and a storage array exceeding 70TB, TitanCore is more than a system: it’s a sanctuary of speed, silence, and soul.
 
-
 ---
 
-![Status](https://img.shields.io/badge/Build-Completed-brightgreen?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge&logo=semantic-release)
-![Cooling](https://img.shields.io/badge/Cooling-Hybrid_Extreme-blue?style=for-the-badge&logo=cooler)
-![Storage](https://img.shields.io/badge/Storage-128TB_Total-orange?style=for-the-badge&logo=databricks)
-![RAM](https://img.shields.io/badge/RAM-256GB_DDR5_6000MHz-yellow?style=for-the-badge&logo=kingston)
-![NVMe](https://img.shields.io/badge/NVMe-16TB_Gen5-green?style=for-the-badge&logo=samsung)
-![SATA](https://img.shields.io/badge/SATA-56TB_SSD-lightgrey?style=for-the-badge&logo=seagate)
-![Fans](https://img.shields.io/badge/Fans-35_Active-lightblue?style=for-the-badge&logo=fan)
-![RGB](https://img.shields.io/badge/RGB-AuraSync_+_iCUE-pink?style=for-the-badge&logo=rgb)
-![Display](https://img.shields.io/badge/Display-4K_+_8K_+_12K-purple?style=for-the-badge&logo=samsung)
-![Ambient](https://img.shields.io/badge/Ambient-Galaxy_Drift_Logic-cyan?style=for-the-badge&logo=aurora)
-![Startup](https://img.shields.io/badge/Startup-Silent_Boot_Sequence-darkblue?style=for-the-badge&logo=powerbi)
-![Signature](https://img.shields.io/badge/Signature-TitanCore™_Identity-black?style=for-the-badge&logo=starship)
+![Status](https://img.shields.io/badge/Build-Completed-brightgreen?style=flat-square&logo=github)
+![Version](https://img.shields.io/badge/Version-v2.0-blue?style=flat-square&logo=semantic-release)
+![Cooling](https://img.shields.io/badge/Cooling-Hybrid_Extreme-blue?style=flat-square&logo=cooler)
+![Storage](https://img.shields.io/badge/Storage-128TB_Total-orange?style=flat-square&logo=databricks)
+![RAM](https://img.shields.io/badge/RAM-256GB_DDR5_6000MHz-yellow?style=flat-square&logo=kingston)
+![NVMe](https://img.shields.io/badge/NVMe-16TB_Gen5-green?style=flat-square&logo=samsung)
+![SATA](https://img.shields.io/badge/SATA-56TB_SSD-lightgrey?style=flat-square&logo=seagate)
+![Fans](https://img.shields.io/badge/Fans-35_Active-lightblue?style=flat-square&logo=fan)
+![RGB](https://img.shields.io/badge/RGB-AuraSync_+_iCUE-pink?style=flat-square&logo=rgb)
+![Display](https://img.shields.io/badge/Display-4K_+_8K_+_12K-purple?style=flat-square&logo=samsung)
+![Ambient](https://img.shields.io/badge/Ambient-Galaxy_Drift_Logic-cyan?style=flat-square&logo=aurora)
+![Startup](https://img.shields.io/badge/Startup-Silent_Boot_Sequence-darkblue?style=flat-square&logo=powerbi)
+![Signature](https://img.shields.io/badge/Signature-TitanCore™_Identity-black?style=flat-square&logo=starship)
 
 ---
 
@@ -57,7 +64,6 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ![CPU Cooler](https://img.shields.io/badge/CPU_Cooler-ROG_Ryujin_IV_SLC_360_ARGB-FF003C?style=flat-square&logo=asus)
 ![Pump_Reservoir](https://img.shields.io/badge/Reservoir-Corsair_XD5_RGB_Pump_Combo-00BFFF?style=flat-square&logo=corsair)
 ![PSU](https://img.shields.io/badge/PSU-Super_Flower_Leadex_2000W_ATX_3.1-FFD700?style=flat-square&logo=supermicro)
-
 
 ---
 
@@ -251,7 +257,6 @@ Wiring 35 fans and 5 Corsair Commander Pro XTs is a god-tier cable management ch
 ![Portable Monitor](https://img.shields.io/badge/Portable_Monitor-Arzopa_A1T_15.6_Inch-FF6F00?style=flat-square)
 ![Keyboard2](https://img.shields.io/badge/Keyboard-Aula_S75_Pro_White-E0E0E0?style=flat-square&logoColor=black)
 
-
 ---
 
 ![Visual Sync](https://img.shields.io/badge/Display_Mode-TitanAwaken_%2F_Starfield_Drift-9370DB?style=flat-square&logo=custom)
@@ -276,7 +281,6 @@ Wiring 35 fans and 5 Corsair Commander Pro XTs is a god-tier cable management ch
 ![Battery Pack](https://img.shields.io/badge/Battery_Pack-APC_SRT192BP2_Extended_Runtime-brightgreen?style=flat-square&logo=schneiderelectric)
 ![Cabling](https://img.shields.io/badge/Cabling-Braided_Carbon_Sleeving_Modular-228B22?style=flat-square)
 ![Cable Management](https://img.shields.io/badge/Cable_Management-Magnetic_Hide_System-808080?style=flat-square)
-
 ![Dust Filter](https://img.shields.io/badge/Dust_Filter-Magnetic_Mesh_%2B_Ring_Guards-708090?style=flat-square)
 ![Blower](https://img.shields.io/badge/Dust_Blower-X3Pro_Turbo_Jet_Cleaner-FF4500?style=flat-square)
 ![Power Strip](https://img.shields.io/badge/PDU-EMI_Shielded_Rack_Mount-FFA500?style=flat-square)
@@ -384,27 +388,28 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 ---
 
 ### 🧠 CODE // NODE
-![Termux](https://img.shields.io/badge/TΞRMUX-000000?logo=gnubash&style=for-the-badge&labelColor=1a1a1a)
-![GitHub](https://img.shields.io/badge/GIⱴHUB-181717?logo=github&style=for-the-badge&labelColor=24292e)
-![VS⚡️CODE](https://img.shields.io/badge/VS%20CODE-007ACC?logo=visualstudiocode&style=for-the-badge&labelColor=0d1117)
-![N✪TΞPAD++](https://img.shields.io/badge/Notepad++-90E23D?logo=notepadplusplus&style=for-the-badge&labelColor=2d2d2d)
-![⚛️ORCHID](https://img.shields.io/badge/Orchid-purple?style=for-the-badge&labelColor=800080)
-![STΔCK▯VERFL☰W](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&style=for-the-badge&labelColor=333)
-![n8n](https://img.shields.io/badge/Automation-n8n-FF6D00?logo=n8n&logoColor=white)
+![Termux](https://img.shields.io/badge/TΞRMUX-000000?logo=gnubash&style=flat-square&labelColor=1a1a1a)
+![GitHub](https://img.shields.io/badge/GIⱴHUB-181717?logo=github&style=flat-square&labelColor=24292e)
+![VS⚡️CODE](https://img.shields.io/badge/VS%20CODE-007ACC?logo=visualstudiocode&style=flat-square&labelColor=0d1117)
+![N✪TΞPAD++](https://img.shields.io/badge/Notepad++-90E23D?logo=notepadplusplus&style=flat-square&labelColor=2d2d2d)
+![⚛️ORCHID](https://img.shields.io/badge/Orchid-purple?style=flat-square&labelColor=800080)
+![STΔCK▯VERFL☰W](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&style=flat-square&labelColor=333)
+![n8n](https://img.shields.io/badge/Automation-n8n-FF6D00?logo=n8n&logoColor=white&style=flat-square)
+
 ---
 
 ### 🎮 GAME // MODE
-![Racing Master](https://img.shields.io/badge/🏁RAΞCING⸸MASTER-ff004f?logo=playstation&style=for-the-badge&labelColor=121212)
-![PUBG](https://img.shields.io/badge/PUBG⚔️ZONE-111111?logo=pubg&style=for-the-badge&labelColor=000)
-![Minecraft](https://img.shields.io/badge/MI⧉CRAFT-00ff00?logo=minecraft&style=for-the-badge&labelColor=3c3c3c)
-![CLΔSH⚔️OF⸸CLANS](https://img.shields.io/badge/Clash_of_Clans-FFCC00?logo=clashofclans&style=for-the-badge&labelColor=8B0000)
+![Racing Master](https://img.shields.io/badge/🏁RAΞCING⸸MASTER-ff004f?logo=playstation&style=flat-square&labelColor=121212)
+![PUBG](https://img.shields.io/badge/PUBG⚔️ZONE-111111?logo=pubg&style=flat-square&labelColor=000)
+![Minecraft](https://img.shields.io/badge/MI⧉CRAFT-00ff00?logo=minecraft&style=flat-square&labelColor=3c3c3c)
+![CLΔSH⚔️OF⸸CLANS](https://img.shields.io/badge/Clash_of_Clans-FFCC00?logo=clashofclans&style=flat-square&labelColor=8B0000)
 
 ---
 
 ### 📺 STREAM // VIBE
-![Netflix](https://img.shields.io/badge/NΞTFL!X-e50914?logo=netflix&style=for-the-badge&labelColor=111111)
-![YouTube](https://img.shields.io/badge/Y⚡️UTUBE-FF0000?logo=youtube&style=for-the-badge&labelColor=0d0d0d)
-![TikTok](https://img.shields.io/badge/⸸IK⸸☯K-000000?logo=tiktok&style=for-the-badge&labelColor=1a1a1a)
+![Netflix](https://img.shields.io/badge/NΞTFL!X-e50914?logo=netflix&style=flat-square&labelColor=111111)
+![YouTube](https://img.shields.io/badge/Y⚡️UTUBE-FF0000?logo=youtube&style=flat-square&labelColor=0d0d0d)
+![TikTok](https://img.shields.io/badge/⸸IK⸸☯K-000000?logo=tiktok&style=flat-square&labelColor=1a1a1a)
 
 ---
 
@@ -424,26 +429,26 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ## 🔗 Connect with Me
 
-[![WhatsApp Owner](https://img.shields.io/badge/WhatsApp%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285260245100)  
-[![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283852553348)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://bit.ly/3OgoGSC)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-hutabarat/)  
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivan_hutabarat)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ivan.hutabarat)  
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ivan_hutabarat)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ivan_hutabarat)  
-[![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/~ivan_hutabarat)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ivanhutabarat)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ivanhutabarat) 
+[![WhatsApp Owner](https://img.shields.io/badge/WhatsApp%20Owner-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6285260245100)  
+[![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6283852553348)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://bit.ly/3OgoGSC)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-hutabarat/)  
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ivan_hutabarat)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ivan.hutabarat)  
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ivan_hutabarat)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/ivan_hutabarat)  
+[![LINE](https://img.shields.io/badge/LINE-00C300?style=flat-square&logo=line&logoColor=white)](https://line.me/ti/p/~ivan_hutabarat)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Ivanhutabarat)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ivanhutabarat) 
 
 ---
 
 ### 📡 Current System Status
 
-![Focus](https://img.shields.io/badge/Focus-Geophysics_Data_Analysis-00F7FF?style=for-the-badge&logo=python&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-Machine_Learning_in_Geoscience-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Bot Status](https://img.shields.io/badge/WhatsApp_Bot-Online_%26_Active-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Availability](https://img.shields.io/badge/Availability-Open_to_Collaborate-orange?style=for-the-badge&logo=github)
+![Focus](https://img.shields.io/badge/Focus-Geophysics_Data_Analysis-00F7FF?style=flat-square&logo=python&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Machine_Learning_in_Geoscience-8A2BE2?style=flat-square&logo=google-scholar&logoColor=white)
+![Bot Status](https://img.shields.io/badge/WhatsApp_Bot-Online_%26_Active-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Availability](https://img.shields.io/badge/Availability-Open_to_Collaborate-orange?style=flat-square&logo=github)
 
 ---
  
@@ -483,11 +488,9 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 
 ---
 
-
 ## 🔥 `Projects by Ivan: Full Repository Showcase`
 
-bash
-> syncing Ivanhutabarat/repos --public --attach=badges/language
+> `syncing Ivanhutabarat/repos --public --attach=badges/language`
 
 | Repository                                              | Description                                                                                          | Language      |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|
@@ -502,18 +505,17 @@ bash
 | [`geophysics-data-visualization`](https://github.com/Ivanhutabarat/geophysics-data-visualization) | Visualisasi + analisis data geofisika berbasis Python                                                | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [`whatsapp-bot-starter`](https://github.com/Ivanhutabarat/whatsapp-bot-starter) | Starter kit WhatsApp bot ringan & modular menggunakan JavaScript                                     | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-
 > _From geoscience to automation, everything is built with love and logic._ 💻🌍
 
 ---
 
 ## 📈 Financial Operations Center (FOC)
 
-![Vault](https://img.shields.io/badge/Vault-Bibit_Invest-21A366?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Radar](https://img.shields.io/badge/Radar-Stockbit_Pro-121212?style=for-the-badge&logo=tradingview&logoColor=white)
-![Binance](https://img.shields.io/badge/Exchange-Binance-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
-![MT5](https://img.shields.io/badge/Platform-MetaTrader_5-0059B2?style=for-the-badge&logo=metatrader5&logoColor=white)
-![MIFX](https://img.shields.io/badge/Broker-MIFX-000000?style=for-the-badge&logo=target&logoColor=red)
+![Vault](https://img.shields.io/badge/Vault-Bibit_Invest-21A366?style=flat-square&logo=google-cloud&logoColor=white)
+![Radar](https://img.shields.io/badge/Radar-Stockbit_Pro-121212?style=flat-square&logo=tradingview&logoColor=white)
+![Binance](https://img.shields.io/badge/Exchange-Binance-F3BA2F?style=flat-square&logo=binance&logoColor=black)
+![MT5](https://img.shields.io/badge/Platform-MetaTrader_5-0059B2?style=flat-square&logo=metatrader5&logoColor=white)
+![MIFX](https://img.shields.io/badge/Broker-MIFX-000000?style=flat-square&logo=target&logoColor=red)
 
 ---
 
@@ -531,56 +533,56 @@ bash
 ## 📊 Execution Node Architecture
 
 **⚡ High-Speed Scalping Engines (Hot Money)**
-![Mirae](https://img.shields.io/badge/Primary_Engine-Mirae_Asset_Sekuritas-F58220?style=for-the-badge&logo=lightning&logoColor=white)
-![Spot](https://img.shields.io/badge/Secondary_Engine-Spot_Sekuritas-FF0000?style=for-the-badge&logo=activity&logoColor=white)
-![MIFX](https://img.shields.io/badge/FX_Engine-MIFX_Pro-000000?style=for-the-badge&logo=currency-exchange&logoColor=gold)
+![Mirae](https://img.shields.io/badge/Primary_Engine-Mirae_Asset_Sekuritas-F58220?style=flat-square&logo=lightning&logoColor=white)
+![Spot](https://img.shields.io/badge/Secondary_Engine-Spot_Sekuritas-FF0000?style=flat-square&logo=activity&logoColor=white)
+![MIFX](https://img.shields.io/badge/FX_Engine-MIFX_Pro-000000?style=flat-square&logo=currency-exchange&logoColor=gold)
 
 **📦 Asset Vaults (Cold Storage & Blue Chips)**
-![SafePal](https://img.shields.io/badge/Cold_Wallet-SafePal_S1-000000?style=for-the-badge&logo=keepkey&logoColor=white)
-![Binance](https://img.shields.io/badge/Crypto_Vault-Binance_Global-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
-![BlueChip](https://img.shields.io/badge/Stocks-Saham_Blue_Chip-005EB8?style=for-the-badge&logo=bank&logoColor=white)
-![Bibit](https://img.shields.io/badge/Mutual_Funds-Bibit_Invest-21A366?style=for-the-badge&logo=leaf&logoColor=white)
+![SafePal](https://img.shields.io/badge/Cold_Wallet-SafePal_S1-000000?style=flat-square&logo=keepkey&logoColor=white)
+![Binance](https://img.shields.io/badge/Crypto_Vault-Binance_Global-F3BA2F?style=flat-square&logo=binance&logoColor=black)
+![BlueChip](https://img.shields.io/badge/Stocks-Saham_Blue_Chip-005EB8?style=flat-square&logo=bank&logoColor=white)
+![Bibit](https://img.shields.io/badge/Mutual_Funds-Bibit_Invest-21A366?style=flat-square&logo=leaf&logoColor=white)
 
 > *🛡️ System Security: High-value assets are secured via Air-Gapped Cold Storage Protocol (SafePal S1).*
-
 
 ---
 
 ## 💻 Tech Stack
 
 ### **Languages & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### **Tools & Frameworks**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### **Data & Analysis**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-74c0fc?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-74c0fc?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 ### **Cloud & DevOps**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/Chatbot-WhatsApp_API-25D366?logo=whatsapp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/Chatbot-WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+
 ### **Cybersecurity & Networking**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-006400?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-006400?style=flat-square)
 
 ---
 
@@ -610,6 +612,9 @@ and search for direction
 between the waves of the world  
 and the lines of data.
 "— Ivan Hutabarat
+
 ---
 
-✨ _Always learning, always building!_ ✨
+<div align="center">
+✨ <i>Always learning, always building!</i> ✨
+</div>
